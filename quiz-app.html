@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <style>
+        /* Podstawowe style CSS */
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        button { margin: 10px 0; }
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div id="start-screen">
+        <h1>Quiz App</h1>
+        <button onclick="startQuiz()">Rozpocznij quiz</button>
+    </div>
+
+    <div id="quiz-screen" class="hidden">
+        <h2 id="question"></h2>
+        <div id="answers"></div>
+        <button onclick="submitAnswer()">Zatwierdź odpowiedź</button>
+    </div>
+
+    <div id="results-screen" class="hidden">
+        <h2>Wyniki</h2>
+        <p>Twój wynik: <span id="score"></span></p>
+        <div id="incorrect-answers"></div>
+        <button onclick="startQuiz()">Nowy quiz</button>
+    </div>
+
+    <script>
+        let questions = [];
+        let currentQuestions = [];
+        let currentQuestionIndex = 0;
+        let score = 0;
+
+        // Wczytaj pytania z pliku JSON
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(data => {
+                questions = data;
+            });
+
+        function startQuiz() {
+            currentQuestions = getRandomQuestions(10);
+            currentQuestionIndex = 0;
+            score = 0;
+            showQuestion();
+            document.getElementById('start-screen').classList.add('hidden');
+            document.getElementById('quiz-screen').classList.remove('hidden');
+            document.getElementById('results-screen').classList.add('hidden');
+        }
+
+        function getRandomQuestions(n) {
+            return questions
+                .sort(() => 0.5 - Math.random())
+                .slice(0, n);
+        }
+
+        function showQuestion() {
+            let question = currentQuestions[currentQuestionIndex];
+            document.getElementById('question').textContent = question.question;
+            let answersHtml = question.answers.map((answer, index) => 
+                `<div>
+                    <input type="radio" name="answer" value="${index}" id="answer${index}">
+                    <label for="answer${index}">${answer}</label>
+                </div>`
+            ).join('');
+            document.getElementById('answers').innerHTML = answersHtml;
+        }
+
+        function submitAnswer() {
+            let selectedAnswer = document.querySelector('input[name="answer"]:checked');
+            if (selectedAnswer) {
+                let question = currentQuestions[currentQuestionIndex];
+                if (parseInt(selectedAnswer.value) === question.correct_answer) {
+                    score++;
+                }
+                currentQuestionIndex++;
+                if (currentQuestionIndex < currentQuestions.length) {
+                    showQuestion();
+                } else {
+                    showResults();
+                }
+            } else {
+                alert('Proszę wybrać odpowiedź');
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('results-screen').classList.remove('hidden');
+            document.getElementById('score').textContent = `${score} / ${currentQuestions.length}`;
+            
+            let incorrectAnswersHtml = currentQuestions
+                .filter((q, index) => {
+                    let selectedAnswer = document.querySelector(`input[name="answer"]:checked`);
+                    return parseInt(selectedAnswer.value) !== q.correct_answer;
+                })
+                .map(q => `
+                    <div>
+                        <p><strong>Pytanie:</strong> ${q.question}</p>
+                        <p><strong>Prawidłowa odpowiedź:</strong> ${q.answers[q.correct_answer]}</p>
+                    </div>
+                `)
+                .join('');
+            document.getElementById('incorrect-answers').innerHTML = incorrectAnswersHtml;
+        }
+    </script>
+</body>
+</html>
