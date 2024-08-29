@@ -116,23 +116,25 @@
         const questionCountElement = document.getElementById('question-count');
 
         async function loadQuestions() {
-            try {
+             try {
                 for (let source of questionSources) {
+                    console.log(`Wczytywanie z: ${source}`);
                     const response = await fetch(source);
                     if (!response.ok) {
                         throw new Error(`Błąd wczytywania pliku: ${source}`);
                     }
                     const questions = await response.json();
+                    console.log(`Wczytano ${questions.length} pytań z ${source}`);
                     allQuestions = allQuestions.concat(questions);
                 }
-                // Wyświetlenie liczby wczytanych pytań
                 questionCountElement.textContent = `Wczytano ${allQuestions.length} pytań.`;
-                questionCountElement.classList.remove('hidden'); // Upewnij się, że element jest widoczny
+                questionCountElement.classList.remove('hidden');
                 startQuiz();
             } catch (error) {
                 alert(error.message);
             }
         }
+
 
         function getRandomQuestions(n) {
             return allQuestions
