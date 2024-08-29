@@ -76,7 +76,7 @@
     <div class="container">
         <h1>Quiz App</h1>
         <div id="start-screen">
-            <div id="question-count"></div> <!-- Element do wyświetlania liczby pytań -->
+            <div id="question-count">Wczytywanie pytań...</div> <!-- Element do wyświetlania liczby pytań -->
             <button id="start">Rozpocznij quiz</button>
         </div>
         <div id="quiz-screen" class="hidden">
@@ -116,25 +116,22 @@
         const questionCountElement = document.getElementById('question-count');
 
         async function loadQuestions() {
-             try {
+            try {
                 for (let source of questionSources) {
-                    console.log(`Wczytywanie z: ${source}`);
                     const response = await fetch(source);
                     if (!response.ok) {
                         throw new Error(`Błąd wczytywania pliku: ${source}`);
                     }
                     const questions = await response.json();
-                    console.log(`Wczytano ${questions.length} pytań z ${source}`);
                     allQuestions = allQuestions.concat(questions);
                 }
+                // Wyświetlenie liczby wczytanych pytań
                 questionCountElement.textContent = `Wczytano ${allQuestions.length} pytań.`;
-                questionCountElement.classList.remove('hidden');
-                startQuiz();
+                questionCountElement.classList.remove('hidden'); // Upewnij się, że element jest widoczny
             } catch (error) {
                 alert(error.message);
             }
         }
-
 
         function getRandomQuestions(n) {
             return allQuestions
@@ -220,7 +217,10 @@
             incorrectAnswersElement.classList.remove('hidden');
         }
 
-        document.getElementById('start').addEventListener('click', loadQuestions);
+        // Wczytaj pytania po załadowaniu strony
+        window.onload = loadQuestions;
+
+        document.getElementById('start').addEventListener('click', startQuiz);
         submitButton.addEventListener('click', submitAnswer);
         nextButton.addEventListener('click', nextQuestion);
         document.getElementById('restart').addEventListener('click', () => {
