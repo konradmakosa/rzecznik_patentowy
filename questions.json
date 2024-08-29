@@ -1,326 +1,324 @@
-[
-  {
-    "question": "Ustawa Prawo własności przemysłowej nie normuje:",
-    "answers": [
-      "stosunków w zakresie topografii układów scalonych",
-      "stosunków wynikających z praw autorskich",
-      "zasad, na jakich przedsiębiorcy mogą przyjmować projekty racjonalizatorskie i wynagradzać ich twórców"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Projektami wynalazczymi nie są:",
-    "answers": [
-      "wynalazki i wzory użytkowe",
-      "projekty architektoniczne",
-      "wzory przemysłowe"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Patent nie udziela się na:",
-    "answers": [
-      "roślin lub rasy zwierząt",
-      "ulepszenie lub uzupełnienie wynalazku",
-      "nowe zastosowanie leku"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Patent na ulepszenie lub uzupełnienie wynalazku to:",
-    "answers": [
-      "patent dodatkowy",
-      "patent uzupełniający",
-      "patent posiłkowy"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Za wynalazek nie uważa się",
-    "answers": [
-      "odkryć i teorii naukowych",
-      "Substancji",
-      "Konstrukcji"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Zgłoszenie wynalazku powinno obejmować:",
-    "answers": [
-      "podanie, opis wynalazku, zastrzeżenia patentowe",
-      "podanie, opis wynalazku ujawniający jego istotę, zastrzeżenia patentowe i skrót opisu",
-      "podanie, opis wynalazku i rysunki"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Wynalazek może być uznany za tajny:",
-    "answers": [
-      "na podstawie decyzji Prezesa Urzędu Patentowego Rzeczpospolitej Polskiej",
-      "jeśli we wniosku o udzielenie patentu zgłaszający zastrzegł tajność wynalazku",
-      "jeśli dotyczy bezpieczeństwa lub obronności Państwa"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Zakres przedmiotowy patentu jest określony:",
-    "answers": [
-      "na podstawie opisu wynalazku",
-      "we wniosku o udzielenie patentu",
-      "zgodnie z treścią zastrzeżeń patentowych"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Patenty są udzielane na wynalazki:",
-    "answers": [
-      "nowe i oryginalne",
-      "posiadające poziom wynalazczy i indywidualny charakter",
-      "nowe, posiadające poziom wynalazczy oraz nadające się do przemysłowego stosowania"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Czas trwania prawa ochronnego na wz użytkowy liczy się od:",
-    "answers": [
-      "daty decyzji Urzędu Patentowego o udzieleniu prawa ochronnego",
-      "daty wniesienia opłaty za udzielenie prawa ochronnego",
-      "daty zgłoszenia wzoru użytkowego w Urzędzie Patentowym"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Patent:",
-    "answers": [
-      "jest zbywalny",
-      "jest zbywalny pod warunkiem uzyskania zgody Urzędu Patentowego na zbycie patentu",
-      "nie jest zbywalny"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Program komputerowy:",
-    "answers": [
-      "uważa się za wynalazek",
-      "uważa się za wynalazek pod warunkiem zrzeczenia się praw autorskich",
-      "nie uważa się za wynalazek"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Patent wygasa na skutek:",
-    "answers": [
-      "upływu okresu, na który został udzielony",
-      "unieważnienia",
-      "niekorzystania z wynalazku w okresie pięciu lat od daty udzielenia patentu"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Urząd Patentowy odmawia udzielenia patentu, jeśli:",
-    "answers": [
-      "w podaniu nie wskazano adresu zgłaszającego",
-      "zgłoszenie wynalazku nie zawiera rysunku",
-      "wynalazek nie cechuje się nowością"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Udzielenie patentu stwierdza się poprzez:",
-    "answers": [
-      "wydanie dokumentu patentowego",
-      "publikację w Wiadomościach Urzędu Patentowego",
-      "wpis do Rejestru Patent"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Umowa licencyjna na korzystanie z wynalazku nie może być zawarta na okres dłuższy niż:",
-    "answers": [
-      "żyje twórca",
-      "czas obowiązywania patentu",
-      "5 lat"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Na projekty racjonalizatorskie są udzielane:",
-    "answers": [
-      "prawa ochronne",
-      "patenty racjonalizatorskie",
-      "nie są udzielane żadne prawa wyłączne"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Wzorem przemysłowym jest:",
-    "answers": [
-      "nowy i posiadający techniczny charakter wytwór lub jego część",
-      "nowa postać wytworu lub jego części posiadająca indywidualny charakter",
-      "nowy przedmiot wytworzony w sposób przemysłowy lub rzemieślniczy o cechach użytkowych"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Uprawniony z rejestracji na wzór przemysłowy może udzielić innej osobie upoważnienia do korzystania z jego wzoru:",
-    "answers": [
-      "w drodze umowy ustnej",
-      "w drodze umowy licencyjnej zawartej w formie pisemnej",
-      "wyłącznie w drodze umowy o przeniesienie prawa z rejestracji"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Który z poniższych przedmiot własności przemysłowej nie musi cechować się nowością:",
-    "answers": [
-      "wynalazek",
-      "wzór przemysłowy",
-      "znak towarowy"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Przedmiotem zgłoszenia znaku towarowego nie może być:",
-    "answers": [
-      "projekt architektoniczny",
-      "forma towaru",
-      "sygnał dźwiękowy"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Wzór użytkowy różni się od wynalazku tym, że:",
-    "answers": [
-      "nie musi być nowym rozwiązaniem",
-      "nie musi posiadać poziomu wynalazczego",
-      "nie musi być rozwiązaniem technicznym"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Jeden znak towarowy można zgłosić:",
-    "answers": [
-      "dla dowolnej ilości towar i usług",
-      "dla towar i usług mieszczących się w trzech klasach Międzynarodowej Klasyfikacji Towarów i Usług",
-      "dla towar i usług mieszczących się w jednej klasie Międzynarodowej Klasyfikacji Towar i Usług"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Czas trwania prawa ochronnego na wzór użytkowy wynosi:",
-    "answers": [
-      "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, z możliwością przedłużenia na kolejny 10 letni okres ochrony",
-      "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym",
-      "10 od daty wniesienia opłaty za pierwszy okres ochrony, określonej w decyzji udzieleniu prawa ochronnego"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Topografia układów scalonych to rozwiązanie polegające na:",
-    "answers": [
-      "przestrzennym rozplanowaniu, aktywnych element jedno lub wielowarstwowego wytworu przestrzennego, utworzonego z materiałów półprzewodnikowych tworzących ciągłą warstwę, wyrażonym w dowolny sposób",
-      "przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu element, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego",
-      "przestrzennym rozplanowani u aktywnych element jedno lub wielowarstwowego wytworu przestrzennego o trwałej postaci, nadającym się do przemysłowego stosowania"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "W Wiadomościach Urzędu Patentowego ogłasza się o:",
-    "answers": [
-      "udzieleniu prawa ochronnego na wzór przemysłowy",
-      "odmowie udzielenia dodatkowego prawa ochronnego",
-      "wygaśnięciu prawa wyłącznego po upływie okresu, na jaki prawo zostało udzielone"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Od decyzji Urzędu Patentowego przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie:",
-    "answers": [
-      "14 dni od dnia doręczenia decyzji",
-      "30 dni od dnia doręczenia decyzji",
-      "2 miesięcy od dnia dręczenia decyzji"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Organem samorządu rzecznik patentowych jest:",
-    "answers": [
-      "Krajowy Zjazd Rzecznik Patentowych",
-      "Prezydium Krajowej Rady Rzecznik Patentowych",
-      "Dziekan Okręgu"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Na listę rzecznik patentowych może być wpisany wyłącznie ten, kto:",
-    "answers": [
-      "posiada obywatelstwo państwa członkowskiego",
-      "ma ograniczoną zdolność do czynności prawnych",
-      "posiada tytuł zawodowy co najmniej licencjata"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Zawieszenie prawa wykonywania zawodu rzecznika patentowego następuje w przypadku:",
-    "answers": [
-      "zatrudnienia w urzędzie gminy",
-      "zatrudnienia w Urzędzie Patentowym",
-      "zatrudnienia w kancelarii radcy prawnego"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Statut Polskiej Izby Rzecznik Patentowych uchwala:",
-    "answers": [
-      "Krajowa Rada Rzecznik Patentowych",
-      "Komisja Rewizyjna",
-      "Krajowy Zjazd Rzecznik Patentowych"
-    ],
-    "correct_answer": 2
-  },
-  {
-    "question": "Władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
-    "answers": [
-      "społeczeństwa",
-      "Narodu",
-      "przedstawicieli Narodu"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Zgodnie z Konstytucją Rzeczpospolita Polska jest:",
-    "answers": [
-      "państwem federacyjnym",
-      "państwem jednolitym",
-      "państwem złożonym"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Czas trwania patentu wynosi:",
-    "answers": [
-      "20 lat od daty dokonania zgłoszenia wynalazku w Urzędzie Patentowym",
-      "20 lat od daty udzielenia patentu",
-      "20 lat od daty wpisu patentu do rejestru patentowego"
-    ],
-    "correct_answer": 0
-  },
-  {
-    "question": "Od decyzji o unieważnieniu prawa ochronnego wydanej w trybie postępowania spornego stronom przysługuje:",
-    "answers": [
-      "wniosek o ponowne rozpatrzenie sprawy w terminie jednego miesiąca od dnia jej doręczenia",
-      "skarga do sądu administracyjnego",
-      "zażalenie do Prezesa Urzędu Patentowego RP w terminie 30 dni od dnia jej doręczenia"
-    ],
-    "correct_answer": 1
-  },
-  {
-    "question": "Urząd Patentowy-w trybie postępowania spornego -rozstrzyga sprawy o:",
-    "answers": [
-      "dokonanie wpisu oznaczenia geograficznego do rejestru oznaczeń geograficznych prowadzonego przez Urząd Patentowy",
-      "unieważnienie dodatkowego prawa ochronnego",
-      "stwierdzenie wygaśnięcia prawa z rejestracji wzoru przemysłowego"
-    ],
-    "correct_answer": 1
-  }
-]
+{
+  "question": "Ustawa Prawo własności przemysłowej nie normuje:",
+  "answers": [
+    "stosunków w zakresie topografii układów scalonych",
+    "stosunków wynikających z praw autorskich",
+    "zasad, na jakich przedsiębiorcy mogą przyjmować projekty racjonalizatorskie i wynagradzać ich twórców"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Projektami wynalazczymi nie są:",
+  "answers": [
+    "wynalazki i wzory użytkowe",
+    "projekty architektoniczne",
+    "wzory przemysłowe"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Patent nie udziela się na:",
+  "answers": [
+    "roślin lub rasy zwierząt",
+    "ulepszenie lub uzupełnienie wynalazku",
+    "nowe zastosowanie leku"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Patent na ulepszenie lub uzupełnienie wynalazku to:",
+  "answers": [
+    "patent dodatkowy",
+    "patent uzupełniający",
+    "patent posiłkowy"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Za wynalazek nie uważa się",
+  "answers": [
+    "odkryć i teorii naukowych",
+    "Substancji",
+    "Konstrukcji"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Zgłoszenie wynalazku powinno obejmować:",
+  "answers": [
+    "podanie, opis wynalazku, zastrzeżenia patentowe",
+    "podanie, opis wynalazku ujawniający jego istotę, zastrzeżenia patentowe i skrót opisu",
+    "podanie, opis wynalazku i rysunki"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Wynalazek może być uznany za tajny:",
+  "answers": [
+    "na podstawie decyzji Prezesa Urzędu Patentowego Rzeczpospolitej Polskiej",
+    "jeśli we wniosku o udzielenie patentu zgłaszający zastrzegł tajność wynalazku",
+    "jeśli dotyczy bezpieczeństwa lub obronności Państwa"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Zakres przedmiotowy patentu jest określony:",
+  "answers": [
+    "na podstawie opisu wynalazku",
+    "we wniosku o udzielenie patentu",
+    "zgodnie z treścią zastrzeżeń patentowych"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Patenty są udzielane na wynalazki:",
+  "answers": [
+    "nowe i oryginalne",
+    "posiadające poziom wynalazczy i indywidualny charakter",
+    "nowe, posiadające poziom wynalazczy oraz nadające się do przemysłowego stosowania"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Czas trwania prawa ochronnego na wz użytkowy liczy się od:",
+  "answers": [
+    "daty decyzji Urzędu Patentowego o udzieleniu prawa ochronnego",
+    "daty wniesienia opłaty za udzielenie prawa ochronnego",
+    "daty zgłoszenia wzoru użytkowego w Urzędzie Patentowym"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Patent:",
+  "answers": [
+    "jest zbywalny",
+    "jest zbywalny pod warunkiem uzyskania zgody Urzędu Patentowego na zbycie patentu",
+    "nie jest zbywalny"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Program komputerowy:",
+  "answers": [
+    "uważa się za wynalazek",
+    "uważa się za wynalazek pod warunkiem zrzeczenia się praw autorskich",
+    "nie uważa się za wynalazek"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Patent wygasa na skutek:",
+  "answers": [
+    "upływu okresu, na który został udzielony",
+    "unieważnienia",
+    "niekorzystania z wynalazku w okresie pięciu lat od daty udzielenia patentu"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Urząd Patentowy odmawia udzielenia patentu, jeśli:",
+  "answers": [
+    "w podaniu nie wskazano adresu zgłaszającego",
+    "zgłoszenie wynalazku nie zawiera rysunku",
+    "wynalazek nie cechuje się nowością"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Udzielenie patentu stwierdza się poprzez:",
+  "answers": [
+    "wydanie dokumentu patentowego",
+    "publikację w Wiadomościach Urzędu Patentowego",
+    "wpis do Rejestru Patent"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Umowa licencyjna na korzystanie z wynalazku nie może być zawarta na okres dłuższy niż:",
+  "answers": [
+    "żyje twórca",
+    "czas obowiązywania patentu",
+    "5 lat"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Na projekty racjonalizatorskie są udzielane:",
+  "answers": [
+    "prawa ochronne",
+    "patenty racjonalizatorskie",
+    "nie są udzielane żadne prawa wyłączne"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Wzorem przemysłowym jest:",
+  "answers": [
+    "nowy i posiadający techniczny charakter wytwór lub jego część",
+    "nowa postać wytworu lub jego części posiadająca indywidualny charakter",
+    "nowy przedmiot wytworzony w sposób przemysłowy lub rzemieślniczy o cechach użytkowych"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Uprawniony z rejestracji na wzór przemysłowy może udzielić innej osobie upoważnienia do korzystania z jego wzoru:",
+  "answers": [
+    "w drodze umowy ustnej",
+    "w drodze umowy licencyjnej zawartej w formie pisemnej",
+    "wyłącznie w drodze umowy o przeniesienie prawa z rejestracji"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Który z poniższych przedmiot własności przemysłowej nie musi cechować się nowością:",
+  "answers": [
+    "wynalazek",
+    "wzór przemysłowy",
+    "znak towarowy"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Przedmiotem zgłoszenia znaku towarowego nie może być:",
+  "answers": [
+    "projekt architektoniczny",
+    "forma towaru",
+    "sygnał dźwiękowy"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Wzór użytkowy różni się od wynalazku tym, że:",
+  "answers": [
+    "nie musi być nowym rozwiązaniem",
+    "nie musi posiadać poziomu wynalazczego",
+    "nie musi być rozwiązaniem technicznym"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Jeden znak towarowy można zgłosić:",
+  "answers": [
+    "dla dowolnej ilości towar i usług",
+    "dla towar i usług mieszczących się w trzech klasach Międzynarodowej Klasyfikacji Towarów i Usług",
+    "dla towar i usług mieszczących się w jednej klasie Międzynarodowej Klasyfikacji Towar i Usług"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Czas trwania prawa ochronnego na wzór użytkowy wynosi:",
+  "answers": [
+    "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, z możliwością przedłużenia na kolejny 10 letni okres ochrony",
+    "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym",
+    "10 od daty wniesienia opłaty za pierwszy okres ochrony, określonej w decyzji udzieleniu prawa ochronnego"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Topografia układów scalonych to rozwiązanie polegające na:",
+  "answers": [
+    "przestrzennym rozplanowaniu, aktywnych element jedno lub wielowarstwowego wytworu przestrzennego, utworzonego z materiałów półprzewodnikowych tworzących ciągłą warstwę, wyrażonym w dowolny sposób",
+    "przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu element, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego",
+    "przestrzennym rozplanowani u aktywnych element jedno lub wielowarstwowego wytworu przestrzennego o trwałej postaci, nadającym się do przemysłowego stosowania"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "W Wiadomościach Urzędu Patentowego ogłasza się o:",
+  "answers": [
+    "udzieleniu prawa ochronnego na wzór przemysłowy",
+    "odmowie udzielenia dodatkowego prawa ochronnego",
+    "wygaśnięciu prawa wyłącznego po upływie okresu, na jaki prawo zostało udzielone"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Od decyzji Urzędu Patentowego przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie:",
+  "answers": [
+    "14 dni od dnia doręczenia decyzji",
+    "30 dni od dnia doręczenia decyzji",
+    "2 miesięcy od dnia dręczenia decyzji"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Organem samorządu rzecznik patentowych jest:",
+  "answers": [
+    "Krajowy Zjazd Rzecznik Patentowych",
+    "Prezydium Krajowej Rady Rzecznik Patentowych",
+    "Dziekan Okręgu"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Na listę rzecznik patentowych może być wpisany wyłącznie ten, kto:",
+  "answers": [
+    "posiada obywatelstwo państwa członkowskiego",
+    "ma ograniczoną zdolność do czynności prawnych",
+    "posiada tytuł zawodowy co najmniej licencjata"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Zawieszenie prawa wykonywania zawodu rzecznika patentowego następuje w przypadku:",
+  "answers": [
+    "zatrudnienia w urzędzie gminy",
+    "zatrudnienia w Urzędzie Patentowym",
+    "zatrudnienia w kancelarii radcy prawnego"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Statut Polskiej Izby Rzecznik Patentowych uchwala:",
+  "answers": [
+    "Krajowa Rada Rzecznik Patentowych",
+    "Komisja Rewizyjna",
+    "Krajowy Zjazd Rzecznik Patentowych"
+  ],
+  "correct_answer": 2
+},
+{
+  "question": "Władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
+  "answers": [
+    "społeczeństwa",
+    "Narodu",
+    "przedstawicieli Narodu"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Zgodnie z Konstytucją Rzeczpospolita Polska jest:",
+  "answers": [
+    "państwem federacyjnym",
+    "państwem jednolitym",
+    "państwem złożonym"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Czas trwania patentu wynosi:",
+  "answers": [
+    "20 lat od daty dokonania zgłoszenia wynalazku w Urzędzie Patentowym",
+    "20 lat od daty udzielenia patentu",
+    "20 lat od daty wpisu patentu do rejestru patentowego"
+  ],
+  "correct_answer": 0
+},
+{
+  "question": "Od decyzji o unieważnieniu prawa ochronnego wydanej w trybie postępowania spornego stronom przysługuje:",
+  "answers": [
+    "wniosek o ponowne rozpatrzenie sprawy w terminie jednego miesiąca od dnia jej doręczenia",
+    "skarga do sądu administracyjnego",
+    "zażalenie do Prezesa Urzędu Patentowego RP w terminie 30 dni od dnia jej doręczenia"
+  ],
+  "correct_answer": 1
+},
+{
+  "question": "Urząd Patentowy-w trybie postępowania spornego -rozstrzyga sprawy o:",
+  "answers": [
+    "dokonanie wpisu oznaczenia geograficznego do rejestru oznaczeń geograficznych prowadzonego przez Urząd Patentowy",
+    "unieważnienie dodatkowego prawa ochronnego",
+    "stwierdzenie wygaśnięcia prawa z rejestracji wzoru przemysłowego"
+  ],
+  "correct_answer": 1
+}
