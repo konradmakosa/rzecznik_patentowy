@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App</title>
+    <title>Quiz App wczytywanie</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -125,7 +125,9 @@
                     const questions = await response.json();
                     allQuestions = allQuestions.concat(questions);
                 }
-                questionCountElement.textContent = `Wczytano ${allQuestions.length} pytań.`; // Wyświetlanie liczby pytań
+                // Wyświetlenie liczby wczytanych pytań
+                questionCountElement.textContent = `Wczytano ${allQuestions.length} pytań.`;
+                questionCountElement.classList.remove('hidden'); // Upewnij się, że element jest widoczny
                 startQuiz();
             } catch (error) {
                 alert(error.message);
@@ -210,21 +212,4 @@
 
             incorrectAnswersElement.innerHTML = incorrectQuestions.map(q => `
                 <p><strong>Pytanie:</strong> ${q.question}</p>
-                <p><strong>Prawidłowa odpowiedź:</strong> <span style="color: green;">${q.answers[q.correct_answer]}</span></p>
-            `).join('');
-            
-            incorrectAnswersElement.classList.remove('hidden');
-        }
-
-        document.getElementById('start').addEventListener('click', loadQuestions);
-        submitButton.addEventListener('click', submitAnswer);
-        nextButton.addEventListener('click', nextQuestion);
-        document.getElementById('restart').addEventListener('click', () => {
-            startScreen.classList.remove('hidden');
-            resultScreen.classList.add('hidden');
-            incorrectAnswersElement.classList.add('hidden');
-            loadQuestions();
-        });
-    </script>
-</body>
-</html>
+                <p><strong>Prawidłowa odpowiedź:</strong> <span style="color: green;">${q.answers[q.correct_answer
