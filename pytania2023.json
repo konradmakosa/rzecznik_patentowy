@@ -430,5 +430,105 @@
         "wygaśnięcie postępowania o zgłoszenie znaku towarowego"
       ],
       "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej do rozpatrzenia sprzeciwu",
+      "answers": [
+        "Przewodniczącego Kolegium do Spraw Spornych",
+        "trzyosobowy skład Kolegium do Spraw Spornych",
+        "eksperta"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej w przypadku uznania za zasadny zarzutu nieużywania wcześniejszego znaku towarowego w sposób rzeczywisty w ciągu nieprzerwanego okresu 5 lat przed datą dokonania zgłoszenia znaku towarowego będącego przedmiotem sprzeciwu dla towarów objętych sprzeciwem co do zasady powoduje:",
+      "answers": [
+        "oddalenie sprzeciwu",
+        "umorzenie sprzeciwu",
+        "uznanie sprzeciwu"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej uprawniony z prawa ochronnego do znaku towarowego może wskazać, że jego znak został zarejestrowany, poprzez umieszczenie w sąsiedztwie znaku towarowego litery „R” wpisanej w okrąg:",
+      "answers": [
+        "od daty zgłoszenia znaku towarowego",
+        "od daty rejestracji znaku towarowego",
+        "od daty uprawomocnienia się decyzji Urzędu Patentowego o udzieleniu prawa ochronnego na znak towarowy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej przedłużenie prawa ochronnego na znak towarowy następuje:",
+      "answers": [
+        "po wniesieniu opłaty za kolejny okres ochrony w terminie",
+        "po złożeniu wniosku o przedłużenie ochrony",
+        "po złożeniu wniosku o przedłużenie ochrony, którego załącznikiem jest potwierdzenie wniesienia opłaty za przedłużenie ochrony w terminie"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej osoba, która, prowadząc lokalną działalność gospodarczą w niewielkim rozmiarze, używała w dobrej wierze oznaczenia zarejestrowanego następnie jako znak towarowy na rzecz innej osoby",
+      "answers": [
+        "ma prawo używać tego oznaczenia w nie większym niż dotychczas zakresie pod warunkiem podpisania licencji pośredniej z uprawnionym z zarejestrowanego znaku towarowego",
+        "nie może używać tego oznaczenia",
+        "ma prawo bezpłatnie używać tego oznaczenia w nie większym niż dotychczas zakresie"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej prawo ochronne na znak towarowy:",
+      "answers": [
+        "nie może być przeniesione na inną osobę w stosunku do niektórych towarów, dla których prawo to jest udzielone",
+        "może być przeniesione na inną osobę w stosunku do niektórych towarów, dla których prawo to jest udzielone",
+        "jest całkowicie i bezwarunkowo niezbywalne"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej udzielenie prawa z rejestracji na oznaczenie geograficzne, którego używanie naruszałoby prawo ochronne na znak towarowy:",
+      "answers": [
+        "może nastąpić, jeżeli uprawniony z prawa ochronnego zrzeknie się swojego prawa",
+        "powoduje wszczęcie postępowania spornego przed Urzędem Patentowym o naruszenie prawa ochronnego na znak towarowy",
+        "może nastąpić, jeśli oznaczenie geograficzne posiada większą zdolność odróżniającą niż znak towarowy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej w sprawach, w których wpis do rejestru Urzędu Patentowego RP jest uzależniony od złożenia wniosku:",
+      "answers": [
+        "wpisu dokonuje się na podstawie prawidłowo złożonego wniosku",
+        "wpisu dokonuje się na podstawie decyzji",
+        "wpisu dokonuje się na podstawie postanowienia"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej rzecznik patentowy występując jako pełnomocnik w postępowaniu spornym przed Urzędem Patentowym RP:",
+      "answers": [
+        "nie może sam uwierzytelnić odpisu udzielonego mu pełnomocnictwa",
+        "może sam uwierzytelnić odpis udzielonego mu pełnomocnictwa",
+        "jest zobowiązany przedstawić odpis pełnomocnictwa w oryginale"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej w toku postępowania w sprawach związanych z rozpatrywaniem zgłoszeń oraz utrzymaniem ochrony wynalazków, produktów leczniczych, produktów ochrony roślin, wzorów użytkowych, wzorów przemysłowych, znaków towarowych, oznaczeń geograficznych i topografii układów scalonych, a także w postępowaniu w sprawie dokonywania wpisów w rejestrach prowadzonych przez Urząd Patentowy - Urząd Patentowy o do zasady wyznacza stronie do dokonania określonych czynności terminy nie krótsze niż:",
+      "answers": [
+        "dwa tygodnie, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę za granicą.",
+        "10 dni, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę za granicą.",
+        "miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub dwa miesiące, gdy strona ma miejsce zamieszkania lub siedzibę za granicą."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z ustawą prawo własności przemysłowej do postępowania spornego przed Urzędem Patentowym RP w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy:",
+      "answers": [
+        "kodeksu postępowania cywilnego",
+        "kodeksu postępowania administracyjnego",
+        "w zależności od przedmiotu sporu: kodeksu postępowania cywilnego ub kodeksu postępowania administracyjnego"
+      ],
+      "correct_answer": 0
     }
+ 
 ]
