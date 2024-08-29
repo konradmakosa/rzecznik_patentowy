@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App wczytywanie</title>
+    <title>Quiz App</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,7 +76,7 @@
     <div class="container">
         <h1>Quiz App</h1>
         <div id="start-screen">
-            <div id="question-count">Wczytywanie pytań.</div> <!-- Element do wyświetlania liczby pytań -->
+            <div id="question-count"></div> <!-- Element do wyświetlania liczby pytań -->
             <button id="start">Rozpocznij quiz</button>
         </div>
         <div id="quiz-screen" class="hidden">
@@ -212,4 +212,21 @@
 
             incorrectAnswersElement.innerHTML = incorrectQuestions.map(q => `
                 <p><strong>Pytanie:</strong> ${q.question}</p>
-                <p><strong>Prawidłowa odpowiedź:</strong> <span style="color: green;">${q.answers[q.correct_answer
+                <p><strong>Prawidłowa odpowiedź:</strong> <span style="color: green;">${q.answers[q.correct_answer]}</span></p>
+            `).join('');
+            
+            incorrectAnswersElement.classList.remove('hidden');
+        }
+
+        document.getElementById('start').addEventListener('click', loadQuestions);
+        submitButton.addEventListener('click', submitAnswer);
+        nextButton.addEventListener('click', nextQuestion);
+        document.getElementById('restart').addEventListener('click', () => {
+            startScreen.classList.remove('hidden');
+            resultScreen.classList.add('hidden');
+            incorrectAnswersElement.classList.add('hidden');
+            loadQuestions();
+        });
+    </script>
+</body>
+</html>
