@@ -1,0 +1,231 @@
+@ -0,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #question {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            background-color: white; /* White background for the question */
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .answer {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            background-color: #f0f0f0;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .answer:hover {
+            background-color: #e0e0e0;
+        }
+        .answer.selected {
+            background-color: #d0e0ff; /* Light blue for selected answer */
+        }
+        #submit {
+            background-color: #4CAF50; /* Green for submit */
+        }
+        #next {
+            background-color: #2196F3; /* Blue for next */
+        }
+        #restart {
+            background-color: #FF5722; /* Red for restart */
+        }
+        #result {
+            text-align: center;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .correct {
+            background-color: #90EE90; /* Light green for correct answer */
+        }
+        .incorrect {
+            background-color: #FFA07A; /* Light salmon for incorrect answer */
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz App</h1>
+        <div id="start-screen">
+            <div id="question-count"></div> <!-- Element do wyświetlania liczby pytań -->
+            <button id="start">Rozpocznij quiz</button>
+        </div>
+        <div id="quiz-screen" class="hidden">
+            <div id="question"></div>
+            <div id="answers"></div>
+            <button id="submit">Zatwierdź odpowiedź</button>
+            <button id="next" class="hidden">Następne pytanie</button>
+        </div>
+        <div id="result-screen" class="hidden">
+            <div id="result"></div>
+            <div id="incorrect-answers" class="hidden"></div>
+            <button id="restart">Rozpocznij nowy quiz</button>
+        </div>
+    </div>
+
+    <script>
+        const questionSources = [
+            "pytania2022.json",
+            "pytania2023.json"
+            // Dodaj więcej źródeł, jeśli masz
+        ];
+
+        let allQuestions = [];
+        let currentQuestions = [];
+        let currentQuestionIndex = 0;
+        let score = 0;
+
+        const startScreen = document.getElementById('start-screen');
+        const quizScreen = document.getElementById('quiz-screen');
+        const resultScreen = document.getElementById('result-screen');
+        const questionElement = document.getElementById('question');
+        const answersElement = document.getElementById('answers');
+        const submitButton = document.getElementById('submit');
+        const nextButton = document.getElementById('next');
+        const resultElement = document.getElementById('result');
+        const incorrectAnswersElement = document.getElementById('incorrect-answers');
+        const questionCountElement = document.getElementById('question-count');
+
+        async function loadQuestions() {
+            try {
+                for (let source of questionSources) {
+                    const response = await fetch(source);
+                    if (!response.ok) {
+                        throw new Error(`Błąd wczytywania pliku: ${source}`);
+                    }
+                    const questions = await response.json();
+                    allQuestions = allQuestions.concat(questions);
+                }
+                questionCountElement.textContent = `Wczytano ${allQuestions.length} pytań.`; // Wyświetlanie liczby pytań
+                startQuiz();
+            } catch (error) {
+                alert(error.message);
+            }
+        }
+
+        function getRandomQuestions(n) {
+            return allQuestions
+                .sort(() => 0.5 - Math.random())
+                .slice(0, n);
+        }
+
+        function startQuiz() {
+            currentQuestions = getRandomQuestions(10);
+            currentQuestionIndex = 0;
+            score = 0;
+            startScreen.classList.add('hidden');
+            quizScreen.classList.remove('hidden');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const question = currentQuestions[currentQuestionIndex];
+            questionElement.textContent = question.question;
+            answersElement.innerHTML = '';
+            question.answers.forEach((answer, index) => {
+                const button = document.createElement('button');
+                button.textContent = answer;
+                button.classList.add('answer');
+                button.addEventListener('click', () => selectAnswer(index));
+                answersElement.appendChild(button);
+            });
+            submitButton.classList.remove('hidden');
+            nextButton.classList.add('hidden');
+        }
+
+        function selectAnswer(index) {
+            const buttons = answersElement.getElementsByTagName('button');
+            for (let button of buttons) {
+                button.classList.remove('selected');
+            }
+            buttons[index].classList.add('selected');
+        }
+
+        function submitAnswer() {
+            const selectedAnswer = answersElement.querySelector('.selected');
+            if (selectedAnswer) {
+                const answerIndex = Array.from(answersElement.children).indexOf(selectedAnswer);
+                const question = currentQuestions[currentQuestionIndex];
+                if (answerIndex === question.correct_answer) {
+                    score++;
+                    selectedAnswer.classList.add('correct');
+                } else {
+                    selectedAnswer.classList.add('incorrect');
+                    answersElement.children[question.correct_answer].classList.add('correct');
+                }
+                submitButton.classList.add('hidden');
+                nextButton.classList.remove('hidden');
+            } else {
+                alert('Proszę wybrać odpowiedź');
+            }
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < currentQuestions.length) {
+                showQuestion();
+            } else {
+                showResults();
+            }
+        }
+
+        function showResults() {
+            quizScreen.classList.add('hidden');
+            resultScreen.classList.remove('hidden');
+            resultElement.textContent = `Twój wynik: ${score} / ${currentQuestions.length}`;
+            
+            const incorrectQuestions = currentQuestions.filter((q, index) => {
+                const selectedAnswer = document.querySelector('.selected');
+                return selectedAnswer && Array.from(answersElement.children).indexOf(selectedAnswer) !== q.correct_answer;
+            });
+
+            incorrectAnswersElement.innerHTML = incorrectQuestions.map(q => `
+                <p><strong>Pytanie:</strong> ${q.question}</p>
+                <p><strong>Prawidłowa odpowiedź:</strong> <span style="color: green;">${q.answers[q.correct_answer]}</span></p>
+            `).join('');
+            
+            incorrectAnswersElement.classList.remove('hidden');
+        }
+
+        document.getElementById('start').addEventListener('click', loadQuestions);
+        submitButton.addEventListener('click', submitAnswer);
+        nextButton.addEventListener('click', nextQuestion);
+        document.getElementById('restart').addEventListener('click', () => {
+            startScreen.classList.remove('hidden');
+            resultScreen.classList.add('hidden');
+            incorrectAnswersElement.classList.add('hidden');
+            loadQuestions();
+        });
+    </script>
+</body>
+</html>
