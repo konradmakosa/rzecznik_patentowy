@@ -385,7 +385,78 @@
             "jest publikowana w „Biuletynie Urzędu Patentowego"
           ],
           "correct_answer": 1
-        }
-      ]
-      
-  
+        },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej informacja o przedłużeniu prawa ochronnego na znak towarowy o dalsze 10 lat ochrony:",
+              "answers": [
+                "nie podlega wpisowi do rejestru znaków towarowych",
+                "podlega wpisowi do rejestru znaków towarowych",
+                "jest publikowana w „Biuletynie Urzędu Patentowego"
+              ],
+              "correct_answer": 1
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy RP:",
+              "answers": [
+                "jest organem administracji rządowej",
+                "jest organem samorządu zawodowego",
+                "jest organem administracji publicznej"
+              ],
+              "correct_answer": 0
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek może być przedmiotem patentu, jeżeli:",
+              "answers": [
+                "jest nowy, posiada poziom wynalazczy i nadaje się do przemysłowego zastosowania",
+                "jest nowy i stanowi rozwiązanie o charakterze technicznym",
+                "jest nowy i nie jest sprzeczny z zasadami współżycia społecznego"
+              ],
+              "correct_answer": 0
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej wzór przemysłowy:",
+              "answers": [
+                "musi być nowy i posiadać indywidualny charakter",
+                "musi być nowy i użyteczny",
+                "musi być nowy i zgodny z zasadami współżycia społecznego"
+              ],
+              "correct_answer": 0
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo ochronne na znak towarowy:",
+              "answers": [
+                "może być udzielone na znak towarowy, który jest nowy i ma charakter odróżniający",
+                "może być udzielone na znak towarowy, który jest powszechnie znany",
+                "może być udzielone na znak towarowy, który jest używany w obrocie"
+              ],
+              "correct_answer": 0
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej podanie o udzielenie patentu:",
+              "answers": [
+                "musi zawierać nazwisko twórcy wynalazku",
+                "musi być złożone w formie pisemnej",
+                "musi być złożone w formie elektronicznej"
+              ],
+              "correct_answer": 1
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo do patentu przysługuje:",
+              "answers": [
+                "twórcy wynalazku",
+                "zgłaszającemu wynalazek",
+                "tylko osobom fizycznym"
+              ],
+              "correct_answer": 1
+            },
+            {
+              "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek nie może być przedmiotem patentu, jeżeli:",
+              "answers": [
+                "jest sprzeczny z porządkiem publicznym lub dobrymi obyczajami",
+                "jest znany w danej dziedzinie",
+                "jest stosowany w obrocie"
+              ],
+              "correct_answer": 0
+            }
+]
+          
