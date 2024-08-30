@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Decyzję o udzieleniu prawa ochronnego na znak towarowy wydano 12 września 2020 roku. Pierwszy okres ochronny zakończy się:",
+    "answers": [
+      "12 września 2040 roku",
+      "12 września 2030 roku",
+      "Podane informacje nie pozwalają na wskazanie tej daty"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Wynalazca zapomniał o wniesieniu opłaty za kolejny okres ochronny za wynalazek. Przypomniał sobie o tym po roku.",
+    "answers": [
+      "Nic nie szkodzi, zaległą opłatę można wnieść w dowolnym momencie powiększoną o odsetki ustawowe.",
+      "Termin do wniesienia zaległej opłaty nie podlega przywróceniu.",
+      "Termin do wniesienia zaległej opłaty można przywrócić po wniesieniu opłaty 100% wartości zaległej opłaty w terminie 9 miesięcy od daty, w której opłata powinna być wniesiona."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Patent światowy obowiązuje:",
+    "answers": [
+      "Na całym świecie",
+      "Unia Europejska, Rosja, USA i Chiny",
+      "Taki patent nie istnieje"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Znak towarowy może być opatentowany gdy:",
+    "answers": [
+      "Nie można opatentować znaku towarowego",
+      "Jest nowy i nieoczywisty",
+      "Nigdy nie był używany w obrocie"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Patent wygasa, jeśli wynalazca:",
+    "answers": [
+      "Stracił obywatelstwo polskie",
+      "Umarł",
+      "W żadnym z powyższych przypadków patent nie wygasa"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Znak towarowy wygaśnie, jeśli:",
+    "answers": [
+      "Składając wniosek o przedłużenie ochrony uprawniony nie udowodni, że znak towarowy był używany w obrocie",
+      "Nie zostanie opłacony kolejny okres ochronny",
+      "Znak towarowy jest używany wyłącznie przez licencjobiorcę"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
+    "answers": [
+      "Prezydenta",
+      "Narodu",
+      "Parlamentu"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej ograniczenie wolności działalności gospodarczej jest dopuszczalne:",
+    "answers": [
+      "Tylko w drodze ustawy i tylko ze względu na ważny interes publiczny",
+      "Gdy wymaga tego ważny interes państwa",
+      "Tylko w drodze ustawy podjętej większością głosów przez Sejm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej własność może być ograniczona:",
+    "answers": [
+      "Tylko w drodze ustawy o wywłaszczeniu z uwagi na ważny interes publiczny",
+      "W drodze ustawy",
+      "Tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa własności"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa nie są:",
+    "answers": [
+      "Nieratyfikowane umowy międzynarodowe",
+      "Rozporządzenia",
+      "Ustawy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybory do Sejmu są:",
+    "answers": [
+      "Bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym",
+      "Powszechne i bezpośrednie oraz odbywają się w głosowaniu tajnym",
+      "Powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa Naczelnego Sądu Administracyjnego powołuje:",
+    "answers": [
+      "Prezydent Rzeczypospolitej na sześcioletnią kadencję spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego",
+      "Prezydent Rzeczypospolitej na pięcioletnią kadencję spośród kandydatów przedstawionych przez Krajową Radę Sądownictwa",
+      "Prezes Rady Ministrów na czteroletnią kadencję spośród kandydatów przedstawionych przez Sąd Najwyższy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej pierwszeństwo konwencyjne do uzyskania patentu przysługuje w Rzeczypospolitej Polskiej, na zasadach określonych w umowach międzynarodowych, według daty pierwszego prawidłowego zgłoszenia wynalazku we wskazanym państwie, jeżeli od tej daty zgłoszenie w Urzędzie Patentowym dokonane zostanie w okresie:",
+    "answers": [
+      "12 miesięcy",
+      "6 miesięcy",
+      "3 miesięcy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek uważa się za posiadający poziom wynalazczy, jeżeli wynalazek ten:",
+    "answers": [
+      "Nie jest częścią stanu techniki",
+      "Nie wynika dla znawcy, w sposób oczywisty, ze stanu techniki",
+      "Według wynalazku może być uzyskiwany wytwór lub wykorzystywany sposób, w rozumieniu technicznym, w jakiejkolwiek działalności przemysłowej, nie wykluczając rolnictwa"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej zakres przedmiotowy patentu określają:",
+    "answers": [
+      "Zastrzeżenia patentowe zawarte w opisie patentowym",
+      "Zastrzeżenia patentowe, opis wynalazku oraz rysunki",
+      "Zastrzeżenia patentowe, oraz rysunki"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej wzorem użytkowym jest:",
+    "answers": [
+      "Nowe i posiadające poziom wynalazczy rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci",
+      "Nowe i użyteczne rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci",
+      "Nowe i nadające się do przemysłowego zastosowania rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej za względną przeszkodę rejestracji znaku towarowego nie uznaje się:",
+    "answers": [
+      "Wcześniejszych praw osobistych i majątkowych osób trzecich",
+      "Braku zdolności odróżniającej",
+      "Unijnego renomowanego znaku towarowego z wcześniejszym pierwszeństwem chronionego na rzecz osoby trzeciej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej w trybie postępowania cywilnego nie są rozpoznawane sprawy:",
+    "answers": [
+      "Ustalenie autorstwa projektu wynalazczego",
+      "Stwierdzenie utraty prawa używania oznaczenia geograficznego",
+      "Unieważnienie patentu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej kto, w celu wprowadzenia do obrotu, oznacza towary podrobionym znakiem towarowym, w tym podrobionym znakiem towarowym Unii Europejskiej, zarejestrowanym znakiem towarowym lub znakiem towarowym Unii Europejskiej, którego nie ma prawa używać lub dokonuje obrotu towarami oznaczonymi takimi znakami, podlega:",
+    "answers": [
+      "Tylko grzywnie",
+      "Grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2",
+      "Karze ograniczenia wolności albo pozbawienia wolności do lat 3"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych organem samorządu nie jest:",
+    "answers": [
+      "Krajowy Zjazd Rzeczników Patentowych",
+      "Komisja Rewizyjna",
+      "Komisja Aplikacji"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych stronami w postępowaniu dyscyplinarnym są:",
+    "answers": [
+      "Rzecznik Dyscyplinarny, obwiniony i poszkodowany",
+      "Rzecznik Dyscyplinarny, wnioskodawca (jeśli inny niż poszkodowany) obwiniony i poszkodowany",
+      "Tylko obwiniony"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy kierujący aplikacją (patron) może upoważnić swojego aplikanta do zastępowania go we wszystkich czynnościach:",
+    "answers": [
+      "Po upływie sześciu miesięcy od rozpoczęcia aplikacji",
+      "Po upływie ośmiu miesięcy od rozpoczęcia aplikacji",
+      "Po upływie osiemnastu miesięcy od rozpoczęcia aplikacji"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych prawo wykonywania zawodu rzecznika patentowego powstaje:",
+    "answers": [
+      "W terminie miesiąca od dnia otrzymania uchwały o pozytywnym wyniku egzaminu kwalifikacyjnego",
+      "Po złożeniu ślubowania, z dniem dokonania wpisu na listę rzeczników patentowych",
+      "Po dokonaniu wpisu na listę rzeczników patentowych z dniem wyznaczenia siedziby, gdzie zawód będzie wykonywany"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych w zakres kompetencji Prezesa Polskiej Izby Rzeczników Patentowych nie wchodzi:",
+    "answers": [
+      "Przewodniczenie Krajowej Radzie Rzeczników Patentowych",
+      "Prowadzenie listy aplikantów",
+      "Zawieszenie prawa wykonywania zawodu rzecznik patentowego"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "W Urzędzie Patentowym RP zgłoszono jako wynalazek system telekomunikacyjny, który zgodnie z przykładem wykonania umożliwia przesłanie informacji do systemu Alpha Centauri w pakietach o rozmiarze 128 bitów. Opóźnienie zwracanych pakietów przesyłanych tam i z powrotem mierzone za pomocą polecenia PING wyniosło 10 s. Urząd Patentowy RP:",
+    "answers": [
+      "Odmówił udzielenia patentu z uwagi na brak technicznego charakteru wynalazku",
+      "Utajnił wynalazek a Ministerstwo Spraw Wewnętrznych zaczęło stosować system do wysyłania sygnałów z propozycjami transferu technologii do obcych cywilizacji.",
+      "Odmówił udzielenia patentu na podstawie art. 28 ust. 1 pkt 41) w brzmieniu: Za wynalazki nie uważa się w szczególności: Wytworów lub sposobów, których: A) możliwość wykorzystania nie może być wykazana lub B) wykorzystanie nie przyniesie rezultatu spodziewanego przez zgłaszającego - w świetle powszechnie przyjętych i uznanych zasad nauki;"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, zgłoszenie wzoru przemysłowego powinno zawierać przynajmniej:",
+    "answers": [
+      "Ilustrację wzoru przemysłowego",
+      "Ilustrację wzoru przemysłowego i podanie zawierające co najmniej oznaczenie zgłaszającego, określenie przedmiotu zgłoszenia oraz wniosek o udzielenie prawa z rejestracji",
+      "Ilustrację wzoru przemysłowego i podanie zawierające co najmniej oznaczenie zgłaszającego, określenie przedmiotu zgłoszenia, wniosek o udzielenie prawa z rejestracji a także opłatę"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, jeżeli Urząd Patentowy stwierdzi, że zgłoszenie wzoru przemysłowego nie zostało sporządzone prawidłowo:",
+    "answers": [
+      "Umarza postępowanie",
+      "Wzywa zgłaszającego do uzupełnienia braków a w przypadku braku ich uzupełnienia, pozostawia wniosek bez rozpoznania",
+      "Wydaje decyzję o odmowie udzielenia prawa z rejestracji"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, udzielenie prawa z rejestracji wzoru przemysłowego stwierdza się poprzez:",
+    "answers": [
+      "Wydanie świadectwa rejestracji",
+      "Doręczenie zgłaszającemu zawiadomienia o wpisie do rejestru wzorów przemysłowych",
+      "Wpis do rejestru wzorów przemysłowych z zawiadomieniem zgłaszającego o dokonaniu wpisu"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, jeżeli dwie lub więcej osób korzystających z tej samej daty pierwszeństwa zgłosiło identyczne albo podobne znaki towarowe:",
+    "answers": [
+      "Prawo ochronne na znak towarowy może być udzielone na rzecz każdej z nich",
+      "Prawo ochronne na znak towarowy nie może być udzielone na rzecz każdej z nich",
+      "Prawo ochronne na znak towarowy może być udzielone na rzecz każdej z nich pod warunkiem podpisania regulaminu używania znaków"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne do wspólnego znaku towarowego może nabyć:",
+    "answers": [
+      "Organizacja mająca zdolność do nabywania praw i zaciągania zobowiązań w swoim imieniu powołana do reprezentowania interesów przedsiębiorców",
+      "Każda grupa przedsiębiorców",
+      "Przedsiębiorcy pochodzący z różnych województw"
+    ],
+    "correct_answer": 0
+  }
+]
