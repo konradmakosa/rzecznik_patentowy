@@ -268,5 +268,212 @@
       "Przedsiębiorcy pochodzący z różnych województw"
     ],
     "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy może być przedłużone na kolejny okres 10 lat:",
+    "answers": [
+      "Może być przedłużone na kolejny okres 10 lat, wyłącznie na skutek złożenia wniosku przez uprawnionego o przedłużenie ochrony",
+      "Może być przedłużone na kolejny okres 10 lat, wyłącznie po uiszczeniu opłaty",
+      "Może być przedłużone na kolejny okres 10 lat, wyłącznie na skutek złożenia wniosku przez uprawnionego o przedłużenie ochrony oraz wniesieniu opłaty"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy:",
+    "answers": [
+      "Nie jest zbywalne",
+      "Jest zbywalne ale nie podlega dziedziczeniu",
+      "Jest zbywalne i podlega dziedziczeniu"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, licencja:",
+    "answers": [
+      "Nie podlega wpisowi do rejestru znaków",
+      "Podlega wpisowi do rejestru znaków na wniosek zainteresowanego",
+      "Podlega wpisowi do rejestru wyłącznie wówczas, jeśli jest taki zapis w umowie licencyjnej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy wygasa:",
+    "answers": [
+      "Na skutek upływu okresu, na który zostało udzielone lub na skutek zrzeczenia się prawa przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą na nim prawa",
+      "Jedynie na skutek upływu okresu, na który zostało udzielone",
+      "Jedynie na skutek zrzeczenia się prawa przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą na nim prawa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, oznaczeniami geograficznymi są:",
+    "answers": [
+      "Nazwy regionalne służące do wyróżniania towarów",
+      "Oznaczenia pochodzenia jako pochodzenia towarów służące do wyróżniania towarów spośród towarów pochodzących z regionów chronionych",
+      "Nazwy regionalne służące do wyróżniania nazw organizacji produkujących towary regionalne"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, ochrona oznaczenia geograficznego:",
+    "answers": [
+      "Trwa 20 lat",
+      "Trwa 10 lat",
+      "Jest bezterminowa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, rzecznik patentowy może odmówić udzielenia pomocy lub wypowiedzieć pełnomocnictwo:",
+    "answers": [
+      "W każdym czasie",
+      "Tylko z ważnych powód, o których informuje zainteresowanego",
+      "Tylko wczas, gdy klient nie zapłaci wynagrodzenia"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, rzecznik patentowy traci prawo do wykonywania zawodu z dniem:",
+    "answers": [
+      "Skreślenia z listy rzecznik patentowych",
+      "Uprawomocnienia się orzeczenia sądu dyscyplinarnego o pozbawieniu prawa do wykonywania zawodu",
+      "Uprawomocnienia się orzeczenia Sądu Najwyższego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, organem samorządu jest:",
+    "answers": [
+      "Sąd Dyscyplinarny I instancji",
+      "Okręgowa rada rzecznik patentowych",
+      "Zastępca rzecznika dyscyplinarnego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, organy samorządu podejmują uchwały:",
+    "answers": [
+      "Bezwzględną większością głosów, o ile statut nie stanowi inaczej",
+      "Kwalifikowaną 2/3 większością głosów, o ile statut nie stanowi inaczej",
+      "Zwykłą większością głosów, o ile statut nie stanowi inaczej"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, Krajowy Zjazd Rzecznik Patentowych zwołuje:",
+    "answers": [
+      "Krajowa Rada Rzecznik Patentowych",
+      "Prezes PIRP",
+      "Komisja Rewizyjna"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, uchwalenie statutu jest kompetencją Krajowej Rady Rzecznik Patentowych, w okresie pomiędzy posiedzeniami Krajowego Zjazdu:",
+    "answers": [
+      "Rzecznik Patentowych",
+      "Krajowego Zjazdu Rzecznik Patentowych",
+      "Okręgowych rad rzecznik patentowych i Krajowej Rady Rzecznik Patentowych"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, Nadzwyczajny Zjazd Rzecznik Patentowych powinien być zwołany w ciągu:",
+    "answers": [
+      "Nie później niż w ciągu miesiąca od daty wpływu wniosku o zwołanie Zjazdu",
+      "Niezwłocznie, lecz nie później niż w ciągu dwóch tygodni od daty wpływu wniosku o zwołanie Zjazdu",
+      "Nie później niż w ciągu dwóch miesięcy od daty wpływu wniosku o zwołanie Zjazdu"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, Prezes Urzędu Patentowego RP:",
+    "answers": [
+      "Może zaskarżyć każdą uchwałę organu samorządu",
+      "Nie może zaskarżyć uchwały organu samorządu",
+      "Może zaskarżyć każdą uchwałę organu samorządu, o ile wcześniej wezwie organ samorządu do jej zmiany lub uchylenia, a wezwany organ nie zastosuje się do wezwania"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, karami dyscyplinarnymi jest:",
+    "answers": [
+      "Kara pieniężna nie wyższa niż 5 krotność miesięcznej składki członkowskiej obowiązującej w dacie orzeczenia dyscyplinarnego",
+      "Upomnienie dziekańskie",
+      "Zawieszenie prawa wykonywania zawodu rzecznika patentowego na czas od trzech miesięcy do pięciu lat"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, obok kary nagany z ostrzeżeniem można w stosunku do rzecznika patentowego orzec dodatkowo zakaz patronatu na czas:",
+    "answers": [
+      "Od roku do pięciu lat",
+      "Do pół roku",
+      "Dożywotnio"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Konstytucja Rzeczypospolitej Polskiej uchwalona została przez:",
+    "answers": [
+      "Zgromadzenie Narodowe",
+      "Sejm",
+      "Senat"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Projekt ustawy o zmianie Konstytucji może przedłożyć: co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej:",
+    "answers": [
+      "Co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej",
+      "Premier",
+      "Minister Sprawiedliwości"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Przedłużenie stanu wyjątkowego może nastąpić:",
+    "answers": [
+      "Tylko raz, za zgodą Sejmu i na czas nie dłuższy niż 60 dni.",
+      "Dwa razy co 6 miesięcy",
+      "Tylko raz w danym roku kalendarzowym"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Najwyższa Izba Kontroli podlega:",
+    "answers": [
+      "Senatowi",
+      "Sejmowi",
+      "Prezydentowi"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Prezydent, zgodnie z obowiązującą Konstytucja RP, jest wybierany na kadencję, która trwa:",
+    "answers": [
+      "3 lata",
+      "4 lata",
+      "5 lat"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z obowiązującą Konstytucją RP zasady i tryb ogłaszania akt normatywnych określa:",
+    "answers": [
+      "Ustawa",
+      "Rozporządzenie",
+      "Uchwała Sejmu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z obowiązującą Konstytucją RP, Przewodniczącym Trybunału Stanu jest:",
+    "answers": [
+      "Pierwszy Prezes Sądu Najwyższego",
+      "Minister Sprawiedliwości",
+      "Prezes Naczelnego Sądu Administracyjnego"
+    ],
+    "correct_answer": 0
   }
 ]
