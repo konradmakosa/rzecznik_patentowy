@@ -1,0 +1,111 @@
+[
+    {
+      "question": "Wyrażenie 'claiming the seniority of a national trade mark' i 'inanspruchnahme desZeitrangs einer nationalem Marke'  'revendication de lanciennete de la marqu nationale' w kontekście znaku towarowego oznacza:",
+      "answers": [
+        "zastrzeżenie starszeństwa krajowego znaku towarowego",
+        "rezygnacja ze starszego krajowego znaku towarowego", 
+        "zmiana starszeństwa krajowego znaku towarowego"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z Konstytucją referendum ogólnokrajowe jest wiążące:",
+      "answers": [
+        "jeżeli wzięła w nim udział więcej niż połowa uprawnionych do głosowania",
+        "jeżeli wzięło w nim udział 30% uprawnionych do głosowania",
+        "zawsze, bez względu ile osób wzięło w nim udział"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z Konstytucją ważność wyborów do Sejmu stwierdza:",
+      "answers": [
+        "Sąd Najwyższy",
+        "Trybunał Konstytucyjny",
+        "Naczelny Sąd Administracyjny"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej ustanowienie zastawu rejestrowego na patencie:",
+      "answers": [
+        "jest niedopuszczalne",
+        "jest skuteczne z chwilą wpisu do rejestru zastaw i podlega ujawnieniu w rejestrze patentowym",
+        "jest skuteczne z chwilą wpisu do rejestru patentowego"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej w sprawach nieuregulowanych w ustawie Prawo własności przemysłowej w postępowaniu przed Urzędem Patentowym RP stosuje się odpowiednio przepisy:",
+      "answers": [
+        "kodeksu cywilnego",
+        "kodeksu postępowania cywilnego, z wyjątkiem przepisów o kosztach postępowania",
+        "kodeksu postępowania administracyjnego"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej, na wzór przemysłowy udziela się:",
+      "answers": [
+        "patentu",
+        "prawa ochronnego",
+        "prawa z rejestracji"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej, patent wygasa na przykład na skutek:",
+      "answers": [
+        "śmierci uprawnionego z patentu",
+        "nieuiszczenia w przewidzianym terminie opłaty okresowej",
+        "uznania przez Urząd Patentowy RP wynalazku za wynalazek tajny"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej, wzór przemysłowy stanowi wyłącznie taka postać wytworu lub jego części, która jest nowa oraz:",
+      "answers": [
+        "posiada indywidualny charakter",
+        "stanowi rozwiązanie o charakterze technicznym",
+        "jest rozwiązaniem użytecznym"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej obywatel polski ma prawo wybierania senatorów, jeżeli najpóźniej w dniu głosowania kończy:",
+      "answers": [
+        "17 lat",
+        "18 lat",
+        "21 lat"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z Konstytucją Rzeczpospolita Polska może na podstawie umowy międzynarodowej przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organu władzy państwowej w niektórych sprawach. Ustawa, wyrażająca zgodę na ratyfikację ww. umowy międzynarodowej jest uchwalana:",
+      "answers": [
+        "przez Sejm większością 3/4 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 3/4 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+        "Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+        "przez Sejm większością 3/5 głosów w obecności co najmniej połowy c. ustawowej liczby posłów oraz przez Senat większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby senatorów"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej przedstawicielem Rady Ministrów w województwie jest:",
+      "answers": [
+        "starosta",
+        "wojewoda",
+        "sejmik województwa"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Zgodnie z ustawą Prawo własności przemysłowej stronami postępowania w sprawie sprzeciwu wobec zgłoszenia znaku towarowego są:",
+      "answers": [
+        "Wnoszący sprzeciw i Urząd Patentowy",
+        "Wnoszący sprzeciw i Zgłaszający",
+        "Wnoszący sprzeciw, Zgłaszający i Urząd Patentowy"
+      ],
+      "correct_answer": 2
+    }
+  ]
+  
