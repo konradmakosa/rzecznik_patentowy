@@ -108,9 +108,9 @@
     "correct_answer": 0
   },
   {
-    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposób klonowania człowieka:",
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposóbób klonowania człowieka:",
     "answers": [
-      "może być opatentowany, jeśli nie jest sposobem czysto biologicznym",
+      "może być opatentowany, jeśli nie jest sposóbobem czysto biologicznym",
       "może zostać opatentowany bez żadnych ograniczeń",
       "nie może zostać opatentowany"
     ],
@@ -342,9 +342,9 @@
     "correct_answer": 0
   },
   {
-    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposób klonowania człowieka:",
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposóbób klonowania człowieka:",
     "answers": [
-      "może być opatentowany, jeśli nie jest sposobem czysto biologicznym",
+      "może być opatentowany, jeśli nie jest sposóbobem czysto biologicznym",
       "może zostać opatentowany bez żadnych ograniczeń",
       "nie może zostać opatentowany"
     ],
@@ -604,7 +604,7 @@
     "correct_answer": 2
   },
   {
-    "question": "Zgodnie z ustawą Prawo własności przemysłowej umotywowany sprzeciw wobec prawomocnej decyzji Urzędu Patentowego o udzieleniu patentu, prawa ochronnego na wz użytkowy lub prawa z rejestracji, w ciągu 6 miesięcy od daty opublikowania w \"Wiadomościach Urzędu Patentowego\" informacji o udzieleniu prawa może wnieść:",
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej umotywowany sprzeciw wobec prawomocnej decyzji Urzędu Patentowego o udzieleniu patentu, prawa ochronnego na wzór użytkowy lub prawa z rejestracji, w ciągu 6 miesięcy od daty opublikowania w \"Wiadomościach Urzędu Patentowego\" informacji o udzieleniu prawa może wnieść:",
     "answers": [
       "każdy",
       "wyłącznie podmiot posiadający interes prawny",
@@ -660,8 +660,8 @@
   {
     "question": "Zgodnie z ustawą Prawo własności przemysłowej znakiem towarowym może być:",
     "answers": [
-      "każde oznaczenie, kte można przedstawić w spos graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa",
-      "każde oznaczenie umożliwiające odróżnienie towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znak towarowych w spos pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
+      "każde oznaczenie, które można przedstawić w sposób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa",
+      "każde oznaczenie umożliwiające odróżnienie towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znak towarowych w sposób pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
       "każde oznaczenie umożliwiające odróżnienie towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa"
     ],
     "correct_answer": 1
@@ -670,7 +670,7 @@
   {
     "question": "Zgodnie z ustawą Prawo własności przemysłowej:",
     "answers": [
-      "na wniosek uprawnionego z patentu, dodatkowego prawa ochronnego, prawa ochronnego na wz użytkowy lub prawa z rejestracji, Urząd Patentowy RP informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
+      "na wniosek uprawnionego z patentu, dodatkowego prawa ochronnego, prawa ochronnego nawzórużytkowy lub prawa z rejestracji, Urząd Patentowy RP informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
       "na wniosek uprawnionego z prawa ochronnego na znak towarowy Urząd Patentowy informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
       "Urząd Patentowy RP nie jest ustawowo zobligowany do informowania uprawnionych do praw wyłącznych o upływających terminach uiszczenia opłat okresowych"
     ],
@@ -679,8 +679,8 @@
   {
     "question": "Zgodnie z ustawą Prawo własności przemysłowej znakiem towarowym może być:",
     "answers": [
-      "każde oznaczenie, które można przedstawić w sposób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa",
-      "każde oznaczenie umożliwiające odróżnienie towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znaków towarowych w sposób pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
+      "każde oznaczenie, które można przedstawić w sposóbób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa",
+      "każde oznaczenie umożliwiające odróżnienie towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znaków towarowych w sposóbób pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
       "każde oznaczenie umożliwiające odróżnienie towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa"
     ],
     "correct_answer": 1
