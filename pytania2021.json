@@ -423,13 +423,14 @@
     "correct_answer": 0
   },
   {
-    "question": "Projekt ustawy o zmianie Konstytucji może przedłożyć: co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej:",
+    "question": "Projekt ustawy o zmianie Konstytucji może przedłożyć:",
     "answers": [
-      "Co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej",
-      "Premier",
-      "Minister Sprawiedliwości"
+      "grupa co najmniej 230 posłów lub Prezydent Rzeczypospolitej Polskiej",
+      "co najmniej 1/5 ustawowej liczby posłów, Prezydent Rzeczypospolitej Polskiej oraz Rada Ministrów",
+      "co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej Polskiej."
+      
     ],
-    "correct_answer": 0
+    "correct_answer":2
   },
   {
     "question": "Przedłużenie stanu wyjątkowego może nastąpić:",
