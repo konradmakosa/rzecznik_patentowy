@@ -200,9 +200,9 @@
   {
      "question":"Jeden znak towarowy można zgłosić:",
      "answers":[
-        "dla dowolnej ilości towar i usług",
-        "dla towar i usług mieszczących się w trzech klasach Międzynarodowej Klasyfikacji Towarów i Usług",
-        "dla towar i usług mieszczących się w jednej klasie Międzynarodowej Klasyfikacji Towar i Usług"
+        "dla dowolnej ilości towarów i usług",
+        "dla towarów i usług mieszczących się w trzech klasach Międzynarodowej Klasyfikacji Towarów i Usług",
+        "dla towarów i usług mieszczących się w jednej klasie Międzynarodowej Klasyfikacji Towar i Usług"
      ],
      "correct_answer":0
   },
@@ -510,7 +510,7 @@
         "posiada obywatelstwo polskie, ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu rzecznika patentowego, ukończyła magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, w szczególności techniczne lub prawnicze i złoży oświadczenie o pokryciu kosztów aplikacji",
         "posiada obywatelstwo polskie, ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu rzecznika patentowego, ukończyła magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, w szczególności techniczne lub prawnicze, pozytywnie zda egzamin konkursowy i złoży oświadczenie o pokryciu kosztów aplikacji"
      ],
-     "correct_answer":1
+     "correct_answer":2
   },
   {
      "question":"Umowa sprzedaży prawa do uzyskania patentu:",
@@ -537,6 +537,5 @@
         "służą do wyróżniania towarów pochodzących z określonego terenu oraz posiadających szczególne właściwości, które wyłącznie lub w przeważającej mierze zawdzięczają oddziaływaniu środowiska geograficznego obejmującego łącznie czynniki naturalne oraz ludzkie których wytworzenie lub przetworzenie następuje na tym terenie",
         "służą do wyróżniania towarów które są wytworzone z surowców lub półproduktów pochodzących z określonego terenu, większego niż teren wytworzenia lub przetworzenia towaru, jeżeli są one przygotowywane w szczególnych warunkach i istnieje system kontroli przestrzegania tych warunków"
      ],
-     "correct_answer":0
-  }
+     "correct_answer"
 ]
