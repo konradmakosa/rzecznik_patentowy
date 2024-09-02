@@ -369,10 +369,10 @@
     "correct_answer": 0
   },
   {
-    "question": "Zgodnie z ustawą o rzecznikach patentowych, uchwalenie statutu jest kompetencją Krajowej Rady Rzecznik Patentowych, w okresie pomiędzy posiedzeniami Krajowego Zjazdu:",
+    "question": "Zgodnie z ustawą o rzecznikach patentowych, uchwalenie statutu jest kompetencją:",
     "answers": [
-      "Rzecznik Patentowych",
-      "Krajowego Zjazdu Rzecznik Patentowych",
+      "Krajowej Rady Rzecznik Patentowych, w okresie pomiędzy posiedzeniami Krajowego Zjazdu:",
+      "Krajowego Zjazdu Rzeczników Patentowych",
       "Okręgowych rad rzecznik patentowych i Krajowej Rady Rzecznik Patentowych"
     ],
     "correct_answer": 1
