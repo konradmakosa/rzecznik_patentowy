@@ -138,11 +138,37 @@
             }
         }
 
-        function getRandomQuestions(n) {
+        /* function getRandomQuestions(n) {
             return allQuestions
                 .sort(() => 0.5 - Math.random())
                 .slice(0, n);
-        }
+        } */
+
+        function getRandomQuestions(n) {
+    // Sprawdzamy, czy liczba pytań do wylosowania nie przekracza całkowitej liczby pytań
+    if (n > allQuestions.length) {
+        n = allQuestions.length;
+    }
+
+    // Tworzymy nową tablicę, aby uniknąć modyfikowania oryginalnej
+    let availableQuestions = [...allQuestions];
+
+    // Tablica, która będzie przechowywać losowe pytania
+    const randomQuestions = [];
+
+    for (let i = 0; i < n; i++) {
+        // Losujemy indeks z dostępnej puli pytań
+        const randomIndex = Math.floor(Math.random() * availableQuestions.length);
+
+        // Dodajemy wylosowane pytanie do tablicy randomQuestions
+        randomQuestions.push(availableQuestions[randomIndex]);
+
+        // Usuwamy wylosowane pytanie z dostępnej puli
+        availableQuestions.splice(randomIndex, 1);
+    }
+
+    return randomQuestions;
+}
 
         function startQuiz() {
             currentQuestions = getRandomQuestions(10);
