@@ -1,0 +1,254 @@
+[
+    {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej pierwszeństwo do uzyskania patentu oznacza się według daty:",
+    "answers": [
+      "zgłoszenia wynalazku w Urzędzie Patentowym",
+      "udzielenia patentu na wynalazek",
+      "publikacji informacji o zgłoszeniu w Biuletynie Urzędu Patentowego"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej, twórca wynalazku może dochodzić w I instancji roszczeń z tytułu korzystania z jego wynalazku przed:",
+    "answers": [
+      "sądem okręgowym",
+      "sądem rejonowym",
+      "sądem apelacyjnym"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej prawa z rejestracji wzoru przemysłowego:",
+    "answers": [
+      "udziela się na 25 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+      "udziela się na 15 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+      "udziela się na 25 lat od daty wydania decyzji o udzieleniu prawa z rejestracji, podzielone na pięcioletnie okresy"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego udzielającej prawa wyłącznego stronie służy:",
+    "answers": [
+      "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi dwa miesiące od dnia doręczenia stronie decyzji",
+      "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi trzy miesiące od dnia doręczenia stronie decyzji",
+      "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi jeden miesiąc od dnia doręczenia stronie decyzji"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy Rzeczypospolitej Polskiej jest:",
+    "answers": [
+      "naczelnym organem administracji rządowej w sprawach z zakresu własności przemysłowej",
+      "centralnym organem administracji rządowej w sprawach z zakresu własności przemysłowej",
+      "osobą prawną"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych Krajową Radę Rzeczników Patentowych stanowią:",
+    "answers": [
+      "Prezes Polskiej Izby Rzeczników Patentowych, wiceprezesi oraz członkowie wybrani przez Krajowy Zjazd",
+      "Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd oraz dziekani",
+      "Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd, oraz dziekani i delegaci z okręgów"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy kierujący aplikacją (patron) może upoważnić swojego aplikanta do zastępowania go we wszystkich czynnościach:",
+    "answers": [
+      "po upływie dwunastu miesięcy od rozpoczęcia aplikacji",
+      "po upływie osiemnastu miesięcy od rozpoczęcia aplikacji",
+      "po upływie dwóch lat od rozpoczęcia aplikacji"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z Konstytucją władzę ustawodawczą w Polsce sprawują:",
+    "answers": [
+      "Sejm i Senat",
+      "Prezydent Rzeczypospolitej Polskiej i Rada Ministrów",
+      "tylko Sejm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją w Polsce, warunkiem wejścia w życie ustaw jest:",
+    "answers": [
+      "ich ogłoszenie",
+      "ich podpisanie przez Prezydenta RP",
+      "ich uchwalenie przez Sejm"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Po przystąpieniu Polski do Unii Europejskiej Konstytucja RP:",
+    "answers": [
+      "została zastąpiona przez traktat o Unii Europejskiej",
+      "nadal jest najwyższym prawem Rzeczypospolitej Polskiej",
+      "nadal obowiązuje, ale stoi niżej w hierarchii źródeł prawa niż traktat o Unii Europejskiej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej ochrona znaku towarowego wygasa po 10 latach od daty:",
+    "answers": [
+      "zgłoszenia znaku towarowego",
+      "wydania decyzji o udzieleniu prawa ochronnego",
+      "pierwszeństwa"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej program komputerowy:",
+    "answers": [
+      "nie może zostać opatentowany",
+      "może być opatentowany, jeśli twórca zrzeknie się majątkowych praw autorskich",
+      "może zostać opatentowany bez żadnych ograniczeń"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposób klonowania człowieka:",
+    "answers": [
+      "może być opatentowany, jeśli nie jest sposobem czysto biologicznym",
+      "może zostać opatentowany bez żadnych ograniczeń",
+      "nie może zostać opatentowany"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej melodia:",
+    "answers": [
+      "może być opatentowana",
+      "może być chroniona jako znak towarowy",
+      "może być chroniona jako wzór przemysłowy"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej umowa licencyjna dotycząca patentu:",
+    "answers": [
+      "wymaga formy pisemnej z podpisami notarialnie poświadczonymi",
+      "wymaga formy pisemnej",
+      "może być zawarta w formie ustnej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej prawo do patentu po śmierci twórcy:",
+    "answers": [
+      "wchodzi w skład masy spadkowej",
+      "wygasa",
+      "przechodzi na własność Skarbu Państwa"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej opłatę za utrzymanie w mocy patentu wnosi się:",
+    "answers": [
+      "jednokrotnie po udzieleniu patentu",
+      "co roku",
+      "co 5 lat"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy o rzecznikach patentowych, rzecznik dyscyplinarny:",
+    "answers": [
+      "jest powoływany przez Prezesa Urzędu Patentowego RP",
+      "jest wybierany przez Krajowy Zjazd",
+      "jest mianowany przez Ministra Sprawiedliwości w porozumieniu z Prezesem Urzędu Patentowego RP"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy o rzecznikach patentowych rzecznik patentowy wykonujący zawód na rzecz pracodawcy:",
+    "answers": [
+      "podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy",
+      "nie podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy",
+      "podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy z winy umyślnej"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej zakazane jest istnienie partii politycznych i innych organizacji odwołujących się w swoich programach do totalitarnych metod i praktyk działania:",
+    "answers": [
+      "nazizmu, faszyzmu i komunizmu",
+      "faszyzmu i komunizmu",
+      "nazizmu i faszyzmu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej w czasie stanu nadzwyczajnego nie mogą być zmienione:",
+    "answers": [
+      "Konstytucja RP i ustawy",
+      "Konstytucja RP i ustawa budżetowa",
+      "Konstytucja RP, ordynacje wyborcze do Sejmu, Senatu i organ samorządu terytorialnego, ustawa o wyborze Prezydenta Rzeczypospolitej Polskiej oraz ustawy o stanach nadzwyczajnych"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej projekt ustawy o zmianie Konstytucji może przedłożyć:",
+    "answers": [
+      "grupa co najmniej 230 posłów lub Prezydent Rzeczypospolitej Polskiej",
+      "co najmniej 1/5 ustawowej liczby posłów, Prezydent Rzeczypospolitej Polskiej oraz Rada Ministrów",
+      "co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej Polskiej"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej akty prawa miejscowego:",
+    "answers": [
+      "nie są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+      "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+      "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, ale tylko na obszarze działania organ, które je ustanowiły"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem przed:",
+    "answers": [
+      "Trybunałem Konstytucyjnym",
+      "Trybunałem Stanu",
+      "Sądem Najwyższym"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej w przypadku gdy uprawniony w odpowiedzi na zawiadomienie Urzędu Patentowego RP o wniesieniu sprzeciwu wobec prawomocnej decyzji o udzieleniu patentu uzna sprzeciw za zasadny, Urząd Patentowy RP wydaje:",
+    "answers": [
+      "decyzję o uchyleniu decyzji o udzieleniu patentu i umarza postępowanie",
+      "decyzję o uchyleniu decyzji o udzieleniu patentu",
+      "decyzję stwierdzającą nieważność decyzji o udzieleniu patentu"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej do przedłużenia prawa ochronnego na znak towarowy na kolejny dziesięcioletni okres ochrony niezbędne jest:",
+    "answers": [
+      "złożenie przez podmiot uprawniony wniosku o przedłużenie prawa ochronnego na znak towarowy o dalsze 10 lat ochrony i uiszczenie opłaty za dalszy okres ochrony",
+      "złożenie przez podmiot uprawniony wniosku o przedłużenie prawa ochronnego na znak towarowy o dalsze 10 lat ochrony",
+      "uiszczenie przez podmiot uprawniony opłaty za dalszy okres ochrony"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej informacja o przedłużeniu prawa ochronnego na znak towarowy o dalsze 10 lat ochrony:",
+    "answers": [
+      "nie podlega wpisowi do rejestru znaków towarowych",
+      "podlega wpisowi do rejestru znaków towarowych",
+      "jest publikowana w „Biuletynie Urzędu Patentowego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy RP może wydać postanowienie o wykreśleniu:",
+    "answers": [
+      "znaku towarowego z Rejestru Znaków Towarowych",
+      "patentu z Rejestru Patentowego",
+      "wzoru przemysłowego z Rejestru Wzorów Przemysłowych"
+    ],
+    "correct_answer": 2
+  }
+]
