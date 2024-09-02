@@ -1,6 +1,3 @@
-Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
-
-```html
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -87,13 +84,7 @@ Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
         <div id="quiz-screen" class="hidden">
             <div id="question"></div>
             <div id="answers"></div>
-            <div id="question-info">
-                <p id="current-question-number"></p>
-                <p id="correct-answers-count"></p>
-            </div>
             <button id="submit">Zatwierdź odpowiedź</button>
-            <div id="question-stats" class="hidden">
-            </div>
             <button id="next" class="hidden">Następne pytanie</button>
         </div>
         <div id="result-screen" class="hidden">
@@ -117,7 +108,6 @@ Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
         let currentQuestions = [];
         let currentQuestionIndex = 0;
         let score = 0;
-        let totalQuestions = 10;
 
         const startScreen = document.getElementById('start-screen');
         const quizScreen = document.getElementById('quiz-screen');
@@ -148,31 +138,45 @@ Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
             }
         }
 
+        /* function getRandomQuestions(n) {
+            return allQuestions
+                .sort(() => 0.5 - Math.random())
+                .slice(0, n);
+        } */
+
         function getRandomQuestions(n) {
-            if (n > allQuestions.length) {
-                n = allQuestions.length;
-            }
+    // Sprawdzamy, czy liczba pytań do wylosowania nie przekracza całkowitej liczby pytań
+    if (n > allQuestions.length) {
+        n = allQuestions.length;
+    }
 
-            let availableQuestions = [...allQuestions];
-            const randomQuestions = [];
+    // Tworzymy nową tablicę, aby uniknąć modyfikowania oryginalnej
+    let availableQuestions = [...allQuestions];
 
-            for (let i = 0; i < n; i++) {
-                const randomIndex = Math.floor(Math.random() * availableQuestions.length);
-                randomQuestions.push(availableQuestions[randomIndex]);
-                availableQuestions.splice(randomIndex, 1);
-            }
+    // Tablica, która będzie przechowywać losowe pytania
+    const randomQuestions = [];
 
-            return randomQuestions;
-        }
+    for (let i = 0; i < n; i++) {
+        // Losujemy indeks z dostępnej puli pytań
+        const randomIndex = Math.floor(Math.random() * availableQuestions.length);
+
+        // Dodajemy wylosowane pytanie do tablicy randomQuestions
+        randomQuestions.push(availableQuestions[randomIndex]);
+
+        // Usuwamy wylosowane pytanie z dostępnej puli
+        availableQuestions.splice(randomIndex, 1);
+    }
+
+    return randomQuestions;
+}
 
         function startQuiz() {
-            currentQuestions = getRandomQuestions(totalQuestions);
+            currentQuestions = getRandomQuestions(10);
             currentQuestionIndex = 0;
             score = 0;
             startScreen.classList.add('hidden');
             quizScreen.classList.remove('hidden');
             showQuestion();
-            updateQuestionStats(); // Zaktualizuj informacje o pytaniach
         }
 
         function showQuestion() {
@@ -212,7 +216,6 @@ Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
                 }
                 submitButton.classList.add('hidden');
                 nextButton.classList.remove('hidden');
-                updateQuestionStats(); // Aktualizacja po zatwierdzeniu odpowiedzi
             } else {
                 alert('Proszę wybrać odpowiedź');
             }
@@ -222,15 +225,9 @@ Oczywiście! Oto cały zaktualizowany plik HTML z dodanymi zmianami:
             currentQuestionIndex++;
             if (currentQuestionIndex < currentQuestions.length) {
                 showQuestion();
-                updateQuestionStats(); // Aktualizacja po przejściu do następnego pytania
             } else {
                 showResults();
             }
-        }
-
-        function updateQuestionStats() {
-            document.getElementById('current-question-number').textContent = `Pytanie ${currentQuestionIndex + 1} / ${currentQuestions.length}`;
-            document.getElementById('correct-answers-count').textContent = `Poprawne odpowiedzi: ${score}`;
         }
 
         function showResults() {
