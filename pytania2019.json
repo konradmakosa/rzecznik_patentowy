@@ -472,7 +472,7 @@
     "answers": [
       "nie podlega wpisowi do rejestru znaków towarowych",
       "podlega wpisowi do rejestru znaków towarowych",
-      "jest publikowana w „Biuletynie Urzędu Patentowego\""
+      "jest publikowana w Biuletynie Urzędu Patentowego"
     ],
     "correct_answer": 1
   },
@@ -486,10 +486,8 @@
     "correct_answer": 2
   },
 
-  Oto pytania od numeru 50 do 100, przekształcone na format JSON. Każde pytanie ma trzy odpowiedzi, a także wskazanie prawidłowej odpowiedzi:
-
   {
-    "question": "Wyraz „disclosure" / ,,Offenbarung" / ,,expose" w kontekście wynalazku oznacza:",
+    "question": "Wyraz „disclosure - Offenbarung - expose w kontekście wynalazku oznacza:",
     "answers": [
       "ujawnienie",
       "wyjawienie", 
@@ -498,7 +496,7 @@
     "correct_answer": 0
   },
   {
-    "question": "Wyrażenie „inventive step" / „erfinderische Tatigkeit" /,,activite inventive" w kontekście wynalazku oznacza:",
+    "question": "Wyrażenie „inventive step - erfinderische Tatigkeit - activite inventive w kontekście wynalazku oznacza:",
     "answers": [
       "etap wynalazczy",
       "poziom wynalazczy",
