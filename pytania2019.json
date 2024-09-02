@@ -484,6 +484,381 @@
       "wzoru przemysłowego z Rejestru Wzorów Przemysłowych"
     ],
     "correct_answer": 2
+  },
+
+  Oto pytania od numeru 50 do 100, przekształcone na format JSON. Każde pytanie ma trzy odpowiedzi, a także wskazanie prawidłowej odpowiedzi:
+
+  {
+    "question": "Wyraz „disclosure" / ,,Offenbarung" / ,,expose" w kontekście wynalazku oznacza:",
+    "answers": [
+      "ujawnienie",
+      "wyjawienie", 
+      "odtajnienie"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Wyrażenie „inventive step" / „erfinderische Tatigkeit" /,,activite inventive" w kontekście wynalazku oznacza:",
+    "answers": [
+      "etap wynalazczy",
+      "poziom wynalazczy",
+      "krok wynalazczy"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych organy samorządu podejmują uchwały:",
+    "answers": [
+      "bezwzględną większością głosów, o ile statut nie stanowi inaczej",
+      "zwykłą większością głosów, o ile statut nie stanowi inaczej", 
+      "kwalifikowaną większością głosów, o ile statut nie stanowi inaczej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych organem samorządu Polskiej Izby Rzecznik Patentowych nie jest:",
+    "answers": [
+      "Prezes Polskiej Izby Rzecznik Patentowych",
+      "okręgowe zgromadzenie rzecznik patentowych",
+      "Prezydium Krajowej Rady Rzecznik Patentowych"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może udzielić dalszego pełnomocnictwa (substytucji):",
+    "answers": [
+      "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu",
+      "wyłącznie innemu rzecznikowi patentowemu",
+      "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu oraz adwokatowi lub radcy prawnemu w zakresie dotyczącym znak towarowych"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może występować w charakterze pełnomocnika w:",
+    "answers": [
+      "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+      "postępowaniu przed Urzędem Patentowym, z wyjątkiem występowania w charakterze pełnomocnika przed sądami i organami orzekającymi w sprawach własności przemysłowej oraz z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+      "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, w postępowaniu karnym i postępowaniu karnym skarbowym"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rozprawa przed Sądem Dyscyplinarnym jest:",
+    "answers": [
+      "niejawna",
+      "jawna dla rzecznik patentowych i aplikant",
+      "jawna wyłącznie dla rzecznik patentowych"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych decyzję o wpisie lub odmowie wpisu na listę rzecznik patentowych i o skreśleniu lub odmowie skreślenia z tej listy, a także decyzję uzależniającą dokonanie wpisu od odbycia uzupełniającej aplikacji rzecznikowskiej lub złożenia egzaminu uzupełniającego, wydaje:",
+    "answers": [
+      "Prezes Urzędu Patentowego",
+      "Prezes Polskiej Izby Rzecznik Patentowych",
+      "Minister Przedsiębiorczości i Technologii"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych zaw rzecznika patentowego polega na świadczeniu pomocy w sprawach:",
+    "answers": [
+      "własności intelektualnej",
+      "własności przemysłowej",
+      "własności przemysłowej i prawa autorskiego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy w wykonywaniu zawodu podlega:",
+    "answers": [
+      "tylko ustawom",
+      "ustawom i rozporządzeniom",
+      "ustawom i zarządzeniom Prezydium Polskiej Izby Rzecznik Patentowych"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej znakami towarowymi podrobionymi są:",
+    "answers": [
+      "użyte bezprawnie znaki identyczne dla towar objętych prawem ochronnym",
+      "użyte bezprawnie znaki identyczne lub takie, kte nie mogą być odróżnione w zwykłych warunkach obrotu od znak zarejestrowanych, dla towar objętych prawem ochronnym",
+      "użyte bezprawnie znaki podobne dla towar objętych prawem ochronnym"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Skargę na decyzję Urzędu Patentowego wnosi się do:",
+    "answers": [
+      "Wojewzkiego Sądu Administracyjnego",
+      "Wojewzkiego Sądu Administracyjnego za pośrednictwem Urzędu Patentowego RP",
+      "Naczelnego Sądu Administracyjnego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej w trybie postępowania spornego przed Urzędem Patentowym nie są rozstrzygane sprawy o:",
+    "answers": [
+      "zmianę decyzji o udzieleniu licencji przymusowej",
+      "unieważnienie patentu europejskiego, udzielonego w trybie określonym w Konwencji o patencie europejskim",
+      "ustalenie autorstwa projektu wynalazczego"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej umotywowany sprzeciw wobec prawomocnej decyzji Urzędu Patentowego o udzieleniu patentu, prawa ochronnego na wz użytkowy lub prawa z rejestracji, w ciągu 6 miesięcy od daty opublikowania w \"Wiadomościach Urzędu Patentowego\" informacji o udzieleniu prawa może wnieść:",
+    "answers": [
+      "każdy",
+      "wyłącznie podmiot posiadający interes prawny",
+      "wyłącznie podmiot uprawniony do wcześniejszego prawa wyłącznego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy informuje o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony nie później niż na sześć miesięcy przed dniem, w ktym upływa poprzedni okres ochrony:",
+    "answers": [
+      "uprawnionego z patentu",
+      "uprawnionego z prawa ochronnego na wz użytkowy",
+      "uprawnionego z prawa ochronnego na znak towarowy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej oznaczeniami geograficznymi, w rozumieniu ustawy, są",
+    "answers": [
+      "oznaczenia słowne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+      "oznaczenia słowne i graficzne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+      "oznaczenia odnoszące się pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo ochronne na znak towarowy może być przeniesione na rzecz kilku os jako:",
+    "answers": [
+      "wspne prawo ochronne",
+      "współwłasność prawa w częściach ułamkowych",
+      "współwłasność łączna"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Postępowanie sporne przed Urzędem Patentowym RP, zgodnie z ustawą Prawo własności przemysłowej wszczyna się:",
+    "answers": [
+      "z urzędu",
+      "na wniosek",
+      "na polecenie Dyrektora Departamentu Orzecznictwa"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego wydanej po rozpatrzeniu sprzeciwu wobec zgłoszenia znaku towarowego stronom przysługuje:",
+    "answers": [
+      "wniosek o ponowne rozpatrzenie sprawy",
+      "zażalenie",
+      "odwołanie"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej znakiem towarowym może być:",
+    "answers": [
+      "każde oznaczenie, kte można przedstawić w spos graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa",
+      "każde oznaczenie umożliwiające odróżnienie towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znak towarowych w spos pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
+      "każde oznaczenie umożliwiające odróżnienie towar jednego przedsiębiorstwa od towar innego przedsiębiorstwa"
+    ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej:",
+    "answers": [
+      "na wniosek uprawnionego z patentu, dodatkowego prawa ochronnego, prawa ochronnego na wz użytkowy lub prawa z rejestracji, Urząd Patentowy RP informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
+      "na wniosek uprawnionego z prawa ochronnego na znak towarowy Urząd Patentowy informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
+      "Urząd Patentowy RP nie jest ustawowo zobligowany do informowania uprawnionych do praw wyłącznych o upływających terminach uiszczenia opłat okresowych"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej znakiem towarowym może być:",
+    "answers": [
+      "każde oznaczenie, które można przedstawić w sposób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa",
+      "każde oznaczenie umożliwiające odróżnienie towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znaków towarowych w sposób pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
+      "każde oznaczenie umożliwiające odróżnienie towaru jednego przedsiębiorstwa od towaru innego przedsiębiorstwa"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego wydanej po rozpatrzeniu sprzeciwu wobec zgłoszenia znaku towarowego stronom przysługuje:",
+    "answers": [
+      "wniosek o ponowne rozpatrzenie sprawy",
+      "zażalenie",
+      "odwołanie"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Postępowanie sporne przed Urzędem Patentowym RP, zgodnie z ustawą Prawo własności przemysłowej wszczyna się:",
+    "answers": [
+      "z urzędu",
+      "na wniosek",
+      "na polecenie Dyrektora Departamentu Orzecznictwa"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo ochronne na znak towarowy może być przeniesione na rzecz kilku osób jako:",
+    "answers": [
+      "wspólne prawo ochronne",
+      "współwłasność prawa w częściach ułamkowych",
+      "współwłasność łączna"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej oznaczeniami geograficznymi, w rozumieniu ustawy, są:",
+    "answers": [
+      "oznaczenia słowne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+      "oznaczenia słowne i graficzne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+      "oznaczenia odnoszące się pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy informuje o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony nie później niż na sześć miesięcy przed dniem, w którym upływa poprzedni okres ochrony:",
+    "answers": [
+      "uprawnionego z patentu",
+      "uprawnionego z prawa ochronnego na wzór użytkowy",
+      "uprawnionego z prawa ochronnego na znak towarowy"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej umotywowany sprzeciw wobec prawomocnej decyzji Urzędu Patentowego o udzieleniu patentu, prawa ochronnego na wzór użytkowy lub prawa z rejestracji, w ciągu 6 miesięcy od daty opublikowania w \"Wiadomościach Urzędu Patentowego\" informacji o udzieleniu prawa może wnieść:",
+    "answers": [
+      "każdy",
+      "wyłącznie podmiot posiadający interes prawny",
+      "wyłącznie podmiot uprawniony do wcześniejszego prawa wyłącznego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej w trybie postępowania spornego przed Urzędem Patentowym nie są rozstrzygane sprawy o:",
+    "answers": [
+      "zmianę decyzji o udzieleniu licencji przymusowej",
+      "unieważnienie patentu europejskiego, udzielonego w trybie określonym w Konwencji o patencie europejskim",
+      "ustalenie autorstwa projektu wynalazczego"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Skargę na decyzję Urzędu Patentowego wnosi się do:",
+    "answers": [
+      "Wojewódzkiego Sądu Administracyjnego",
+      "Wojewódzkiego Sądu Administracyjnego za pośrednictwem Urzędu Patentowego RP",
+      "Naczelnego Sądu Administracyjnego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo własności przemysłowej znakami towarowymi podrobionymi są:",
+    "answers": [
+      "użyte bezprawnie znaki identyczne dla towarów objętych prawem ochronnym",
+      "użyte bezprawnie znaki identyczne lub takie, które nie mogą być odróżnione w zwykłych warunkach obrotu od znaków zarejestrowanych, dla towarów objętych prawem ochronnym",
+      "użyte bezprawnie znaki podobne dla towarów objętych prawem ochronnym"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy w wykonywaniu zawodu podlega:",
+    "answers": [
+      "tylko ustawom",
+      "ustawom i rozporządzeniom",
+      "ustawom i zarządzeniom Prezydium Polskiej Izby Rzeczników Patentowych"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych zawód rzecznika patentowego polega na świadczeniu pomocy w sprawach:",
+    "answers": [
+      "własności intelektualnej",
+      "własności przemysłowej",
+      "własności przemysłowej i prawa autorskiego"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych decyzję o wpisie lub odmowie wpisu na listę rzeczników patentowych i o skreśleniu lub odmowie skreślenia z tej listy, a także decyzję uzależniającą dokonanie wpisu od odbycia uzupełniającej aplikacji rzecznikowskiej lub złożenia egzaminu uzupełniającego, wydaje:",
+    "answers": [
+      "Prezes Urzędu Patentowego",
+      "Prezes Polskiej Izby Rzeczników Patentowych",
+      "Minister Przedsiębiorczości i Technologii"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rozprawa przed Sądem Dyscyplinarnym jest:",
+    "answers": [
+      "niejawna",
+      "jawna dla rzeczników patentowych i aplikantów",
+      "jawna wyłącznie dla rzeczników patentowych"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może występować w charakterze pełnomocnika w:",
+    "answers": [
+      "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+      "postępowaniu przed Urzędem Patentowym, z wyjątkiem występowania w charakterze pełnomocnika przed sądami i organami orzekającymi w sprawach własności przemysłowej oraz z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+      "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, w postępowaniu karnym i postępowaniu karnym skarbowym"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może udzielić dalszego pełnomocnictwa (substytucji):",
+    "answers": [
+      "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu",
+      "wyłącznie innemu rzecznikowi patentowemu",
+      "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu oraz adwokatowi lub radcy prawnemu w zakresie dotyczącym znaków towarowych"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych organem samorządu Polskiej Izby Rzeczników Patentowych nie jest:",
+    "answers": [
+      "Prezes Polskiej Izby Rzeczników Patentowych",
+      "okręgowe zgromadzenie rzeczników patentowych",
+      "Prezydium Krajowej Rady Rzeczników Patentowych"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Zgodnie z ustawą o rzecznikach patentowych organy samorządu podejmują uchwały:",
+    "answers": [
+      "bezwzględną większością głosów, o ile statut nie stanowi inaczej",
+      "zwykłą większością głosów, o ile statut nie stanowi inaczej",
+      "kwalifikowaną większością głosów, o ile statut nie stanowi inaczej"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Wyrażenie inventive step - erfinderische Tatigkeit - activite inventive w kontekście wynalazku oznacza:",
+    "answers": [
+      "etap wynalazczy",
+      "poziom wynalazczy",
+      "krok wynalazczy"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Wyraz disclosure - Offenbarung - expose w kontekście wynalazku oznacza:",
+    "answers": [
+      "ujawnienie",
+      "wyjawienie",
+      "odtajnienie"
+    ],
+    "correct_answer": 0
   }
+  
+
 
 ]
