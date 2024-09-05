@@ -202,7 +202,7 @@
     "answers": [
       "nie są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
       "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
-      "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, ale tylko na obszarze działania organ, które je ustanowiły"
+      "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły"
     ],
     "correct_answer": 2
   },
@@ -238,7 +238,7 @@
     "answers": [
       "nie podlega wpisowi do rejestru znaków towarowych",
       "podlega wpisowi do rejestru znaków towarowych",
-      "jest publikowana w „Biuletynie Urzędu Patentowego"
+      "jest publikowana w Biuletynie Urzędu Patentowego"
     ],
     "correct_answer": 1
   },
@@ -429,7 +429,7 @@
       "co najmniej 1/5 ustawowej liczby posłów, Prezydent Rzeczypospolitej Polskiej oraz Rada Ministrów",
       "co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej Polskiej"
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej akty prawa miejscowego:",
@@ -544,8 +544,8 @@
     "question": "Zgodnie z ustawą o rzecznikach patentowych rozprawa przed Sądem Dyscyplinarnym jest:",
     "answers": [
       "niejawna",
-      "jawna dla rzecznik patentowych i aplikant",
-      "jawna wyłącznie dla rzecznik patentowych"
+      "jawna dla rzeczników patentowych i aplikantów",
+      "jawna wyłącznie dla rzeczników patentowych"
     ],
     "correct_answer": 1
   },
@@ -588,8 +588,8 @@
   {
     "question": "Skargę na decyzję Urzędu Patentowego wnosi się do:",
     "answers": [
-      "Wojewzkiego Sądu Administracyjnego",
-      "Wojewzkiego Sądu Administracyjnego za pośrednictwem Urzędu Patentowego RP",
+      "Wojewódzkiego Sądu Administracyjnego",
+      "Wojewódzkiego Sądu Administracyjnego za pośrednictwem Urzędu Patentowego RP",
       "Naczelnego Sądu Administracyjnego"
     ],
     "correct_answer": 1
