@@ -579,9 +579,9 @@
   {
     "question": "Zgodnie z ustawą Prawo własności przemysłowej znakami towarowymi podrobionymi są:",
     "answers": [
-      "użyte bezprawnie znaki identyczne dla towar objętych prawem ochronnym",
-      "użyte bezprawnie znaki identyczne lub takie, kte nie mogą być odróżnione w zwykłych warunkach obrotu od znak zarejestrowanych, dla towar objętych prawem ochronnym",
-      "użyte bezprawnie znaki podobne dla towar objętych prawem ochronnym"
+      "użyte bezprawnie znaki identyczne dla towarów objętych prawem ochronnym",
+      "użyte bezprawnie znaki identyczne lub takie, które nie mogą być odróżnione w zwykłych warunkach obrotu od znak zarejestrowanych, dla towar objętych prawem ochronnym",
+      "użyte bezprawnie znaki podobne dla towarów objętych prawem ochronnym"
     ],
     "correct_answer": 1
   },
