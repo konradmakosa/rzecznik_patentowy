@@ -245,7 +245,7 @@
   {
      "question":"Organem samorządu rzecznik patentowych jest:",
      "answers":[
-        "Krajowy Zjazd Rzecznik Patentowych",
+        "Krajowy Zjazd Rzeczników Patentowych",
         "Prezydium Krajowej Rady Rzecznik Patentowych",
         "Dziekan Okręgu"
      ],
@@ -270,11 +270,11 @@
      "correct_answer":1
   },
   {
-     "question":"Statut Polskiej Izby Rzecznik Patentowych uchwala:",
+     "question":"Statut Polskiej Izby Rzeczników Patentowych uchwala:",
      "answers":[
-        "Krajowa Rada Rzecznik Patentowych",
+        "Krajowa Rada Rzeczników Patentowych",
         "Komisja Rewizyjna",
-        "Krajowy Zjazd Rzecznik Patentowych"
+        "Krajowy Zjazd Rzeczników Patentowych"
      ],
      "correct_answer":2
   },
