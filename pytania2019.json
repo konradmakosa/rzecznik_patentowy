@@ -60,7 +60,7 @@
       "po upływie osiemnastu miesięcy od rozpoczęcia aplikacji",
       "po upływie dwóch lat od rozpoczęcia aplikacji"
     ],
-    "correct_answer": 2
+    "correct_answer": 1
   },
   {
     "question": "Zgodnie z Konstytucją władzę ustawodawczą w Polsce sprawują:",
@@ -99,7 +99,7 @@
     "correct_answer": 0
   },
   {
-    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej program komputerowy:",
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej - program komputerowy:",
     "answers": [
       "nie może zostać opatentowany",
       "może być opatentowany, jeśli twórca zrzeknie się majątkowych praw autorskich",
@@ -294,7 +294,7 @@
       "po upływie osiemnastu miesięcy od rozpoczęcia aplikacji",
       "po upływie dwóch lat od rozpoczęcia aplikacji"
     ],
-    "correct_answer": 2
+    "correct_answer": 1
   },
   {
     "question": "Zgodnie z Konstytucją władzę ustawodawczą w Polsce sprawują:",
@@ -333,7 +333,7 @@
     "correct_answer": 2
   },
   {
-    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej program komputerowy:",
+    "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej - program komputerowy:",
     "answers": [
       "nie może zostać opatentowany",
       "może być opatentowany, jeśli twórca zrzeknie się majątkowych praw autorskich",

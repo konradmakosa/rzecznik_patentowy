@@ -16,6 +16,7 @@
         "zawsze, bez względu ile osób wzięło w nim udział"
       ],
       "correct_answer": 0
+      
     },
     {
       "question": "Zgodnie z Konstytucją ważność wyborów do Sejmu stwierdza:",
@@ -306,7 +307,7 @@
           "correct_answer": 0
         },
         {
-          "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej program komputerowy:",
+          "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej - program komputerowy:",
           "answers": [
             "nie może zostać opatentowany",
             "może być opatentowany, jeśli twórca zrzeknie się majątkowych praw autorskich",

@@ -171,7 +171,7 @@
      "correct_answer":1
   },
   {
-     "question":"Który z poniższych przedmiot własności przemysłowej nie musi cechować się nowością:",
+     "question":"Który z poniższych przedmiotów własności przemysłowej nie musi cechować się nowością:",
      "answers":[
         "wynalazek",
         "wzór przemysłowy",
@@ -218,9 +218,9 @@
   {
      "question":"Topografia układów scalonych to rozwiązanie polegające na:",
      "answers":[
-        "przestrzennym rozplanowaniu, aktywnych element jedno lub wielowarstwowego wytworu przestrzennego, utworzonego z materiałów półprzewodnikowych tworzących ciągłą warstwę, wyrażonym w dowolny sposób",
-        "przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu element, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego",
-        "przestrzennym rozplanowani u aktywnych element jedno lub wielowarstwowego wytworu przestrzennego o trwałej postaci, nadającym się do przemysłowego stosowania"
+        "przestrzennym rozplanowaniu, aktywnych elementów jedno lub wielowarstwowego wytworu przestrzennego, utworzonego z materiałów półprzewodnikowych tworzących ciągłą warstwę, wyrażonym w dowolny sposób",
+        "przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu elementów, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego",
+        "przestrzennym rozplanowaniu aktywnych elementów jedno lub wielowarstwowego wytworu przestrzennego o trwałej postaci, nadającym się do przemysłowego stosowania"
      ],
      "correct_answer":1
   },

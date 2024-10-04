@@ -195,7 +195,7 @@
       "Po upływie ośmiu miesięcy od rozpoczęcia aplikacji",
       "Po upływie osiemnastu miesięcy od rozpoczęcia aplikacji"
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "question": "Zgodnie z ustawą o rzecznikach patentowych prawo wykonywania zawodu rzecznika patentowego powstaje:",
@@ -327,8 +327,8 @@
     "question": "Zgodnie z ustawą o rzecznikach patentowych, rzecznik patentowy może odmówić udzielenia pomocy lub wypowiedzieć pełnomocnictwo:",
     "answers": [
       "W każdym czasie",
-      "Tylko z ważnych powód, o których informuje zainteresowanego",
-      "Tylko wczas, gdy klient nie zapłaci wynagrodzenia"
+      "Tylko z ważnych powódów, o których informuje zainteresowanego",
+      "Tylko wówczas, gdy klient nie zapłaci wynagrodzenia"
     ],
     "correct_answer": 1
   },
