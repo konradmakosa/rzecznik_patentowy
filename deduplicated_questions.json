@@ -1,0 +1,2351 @@
+[
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej pierwszeństwo do uzyskania patentu oznacza się według daty:",
+        "answers": [
+            "zgłoszenia wynalazku w Urzędzie Patentowym",
+            "udzielenia patentu na wynalazek",
+            "publikacji informacji o zgłoszeniu w Biuletynie Urzędu Patentowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, twórca wynalazku może dochodzić w I instancji roszczeń z tytułu korzystania z jego wynalazku przed:",
+        "answers": [
+            "sądem okręgowym",
+            "sądem rejonowym",
+            "sądem apelacyjnym"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej prawa z rejestracji wzoru przemysłowego:",
+        "answers": [
+            "udziela się na 25 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+            "udziela się na 15 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+            "udziela się na 25 lat od daty wydania decyzji o udzieleniu prawa z rejestracji, podzielone na pięcioletnie okresy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego udzielającej prawa wyłącznego stronie służy:",
+        "answers": [
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi dwa miesiące od dnia doręczenia stronie decyzji",
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi trzy miesiące od dnia doręczenia stronie decyzji",
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi jeden miesiąc od dnia doręczenia stronie decyzji"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy Rzeczypospolitej Polskiej jest:",
+        "answers": [
+            "naczelnym organem administracji rządowej w sprawach z zakresu własności przemysłowej",
+            "centralnym organem administracji rządowej w sprawach z zakresu własności przemysłowej",
+            "osobą prawną"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych Krajową Radę Rzeczników Patentowych stanowią:",
+        "answers": [
+            "Prezes Polskiej Izby Rzeczników Patentowych, wiceprezesi oraz członkowie wybrani przez Krajowy Zjazd",
+            "Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd oraz dziekani",
+            "Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd, oraz dziekani i delegaci z okręgów"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy kierujący aplikacją (patron) może upoważnić swojego aplikanta do zastępowania go we wszystkich czynnościach:",
+        "answers": [
+            "po upływie dwunastu miesięcy od rozpoczęcia aplikacji",
+            "po upływie osiemnastu miesięcy od rozpoczęcia aplikacji",
+            "po upływie dwóch lat od rozpoczęcia aplikacji"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją władzę ustawodawczą w Polsce sprawują:",
+        "answers": [
+            "Sejm i Senat",
+            "Prezydent Rzeczypospolitej Polskiej i Rada Ministrów",
+            "tylko Sejm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją w Polsce, warunkiem wejścia w życie ustaw jest:",
+        "answers": [
+            "ich ogłoszenie",
+            "ich podpisanie przez Prezydenta RP",
+            "ich uchwalenie przez Sejm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Po przystąpieniu Polski do Unii Europejskiej Konstytucja RP:",
+        "answers": [
+            "została zastąpiona przez traktat o Unii Europejskiej",
+            "nadal jest najwyższym prawem Rzeczypospolitej Polskiej",
+            "nadal obowiązuje, ale stoi niżej w hierarchii źródeł prawa niż traktat o Unii Europejskiej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej ochrona znaku towarowego wygasa po 10 latach od daty:",
+        "answers": [
+            "zgłoszenia znaku towarowego",
+            "wydania decyzji o udzieleniu prawa ochronnego",
+            "pierwszeństwa"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej - program komputerowy:",
+        "answers": [
+            "nie może zostać opatentowany",
+            "może być opatentowany, jeśli twórca zrzeknie się majątkowych praw autorskich",
+            "może zostać opatentowany bez żadnych ograniczeń"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej sposób klonowania człowieka:",
+        "answers": [
+            "może być opatentowany, jeśli nie jest sposóbobem czysto biologicznym",
+            "może zostać opatentowany bez żadnych ograniczeń",
+            "nie może zostać opatentowany"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej - melodia:",
+        "answers": [
+            "może być opatentowana",
+            "może być chroniona jako znak towarowy",
+            "może być chroniona jako wzór przemysłowy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej umowa licencyjna dotycząca patentu:",
+        "answers": [
+            "wymaga formy pisemnej z podpisami notarialnie poświadczonymi",
+            "wymaga formy pisemnej",
+            "może być zawarta w formie ustnej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej prawo do patentu po śmierci twórcy:",
+        "answers": [
+            "wchodzi w skład masy spadkowej",
+            "wygasa",
+            "przechodzi na własność Skarbu Państwa"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej opłatę za utrzymanie w mocy patentu wnosi się:",
+        "answers": [
+            "jednokrotnie po udzieleniu patentu",
+            "co roku",
+            "co 5 lat"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy o rzecznikach patentowych, rzecznik dyscyplinarny:",
+        "answers": [
+            "jest powoływany przez Prezesa Urzędu Patentowego RP",
+            "jest wybierany przez Krajowy Zjazd",
+            "jest mianowany przez Ministra Sprawiedliwości w porozumieniu z Prezesem Urzędu Patentowego RP"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy o rzecznikach patentowych rzecznik patentowy wykonujący zawód na rzecz pracodawcy:",
+        "answers": [
+            "podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy",
+            "nie podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy",
+            "podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone pracodawcy z winy umyślnej"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej zakazane jest istnienie partii politycznych i innych organizacji odwołujących się w swoich programach do totalitarnych metod i praktyk działania:",
+        "answers": [
+            "nazizmu, faszyzmu i komunizmu",
+            "faszyzmu i komunizmu",
+            "nazizmu i faszyzmu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej w czasie stanu nadzwyczajnego nie mogą być zmienione:",
+        "answers": [
+            "Konstytucja RP i ustawy",
+            "Konstytucja RP i ustawa budżetowa",
+            "Konstytucja RP, ordynacje wyborcze do Sejmu, Senatu i organ samorządu terytorialnego, ustawa o wyborze Prezydenta Rzeczypospolitej Polskiej oraz ustawy o stanach nadzwyczajnych"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej projekt ustawy o zmianie Konstytucji może przedłożyć:",
+        "answers": [
+            "grupa co najmniej 230 posłów lub Prezydent Rzeczypospolitej Polskiej",
+            "co najmniej 1/5 ustawowej liczby posłów, Prezydent Rzeczypospolitej Polskiej oraz Rada Ministrów",
+            "co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej Polskiej"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej akty prawa miejscowego:",
+        "answers": [
+            "nie są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+            "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+            "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem przed:",
+        "answers": [
+            "Trybunałem Konstytucyjnym",
+            "Trybunałem Stanu",
+            "Sądem Najwyższym"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej w przypadku gdy uprawniony w odpowiedzi na zawiadomienie Urzędu Patentowego RP o wniesieniu sprzeciwu wobec prawomocnej decyzji o udzieleniu patentu uzna sprzeciw za zasadny, Urząd Patentowy RP wydaje:",
+        "answers": [
+            "decyzję o uchyleniu decyzji o udzieleniu patentu i umarza postępowanie",
+            "decyzję o uchyleniu decyzji o udzieleniu patentu",
+            "decyzję stwierdzającą nieważność decyzji o udzieleniu patentu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej do przedłużenia prawa ochronnego na znak towarowy na kolejny dziesięcioletni okres ochrony niezbędne jest:",
+        "answers": [
+            "złożenie przez podmiot uprawniony wniosku o przedłużenie prawa ochronnego na znak towarowy o dalsze 10 lat ochrony i uiszczenie opłaty za dalszy okres ochrony",
+            "złożenie przez podmiot uprawniony wniosku o przedłużenie prawa ochronnego na znak towarowy o dalsze 10 lat ochrony",
+            "uiszczenie przez podmiot uprawniony opłaty za dalszy okres ochrony"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej informacja o przedłużeniu prawa ochronnego na znak towarowy o dalsze 10 lat ochrony:",
+        "answers": [
+            "nie podlega wpisowi do rejestru znaków towarowych",
+            "podlega wpisowi do rejestru znaków towarowych",
+            "jest publikowana w Biuletynie Urzędu Patentowego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy RP może wydać postanowienie o wykreśleniu:",
+        "answers": [
+            "znaku towarowego z Rejestru Znaków Towarowych",
+            "patentu z Rejestru Patentowego",
+            "wzoru przemysłowego z Rejestru Wzorów Przemysłowych"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej melodia:",
+        "answers": [
+            "może być opatentowana",
+            "może być chroniona jako znak towarowy",
+            "może być chroniona jako wzór przemysłowy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Wyraz „disclosure - Offenbarung - expose w kontekście wynalazku oznacza:",
+        "answers": [
+            "ujawnienie",
+            "wyjawienie",
+            "odtajnienie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Wyrażenie „inventive step - erfinderische Tatigkeit - activite inventive w kontekście wynalazku oznacza:",
+        "answers": [
+            "etap wynalazczy",
+            "poziom wynalazczy",
+            "krok wynalazczy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych organy samorządu podejmują uchwały:",
+        "answers": [
+            "bezwzględną większością głosów, o ile statut nie stanowi inaczej",
+            "zwykłą większością głosów, o ile statut nie stanowi inaczej",
+            "kwalifikowaną większością głosów, o ile statut nie stanowi inaczej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych organem samorządu Polskiej Izby Rzeczników Patentowych nie jest:",
+        "answers": [
+            "Prezes Polskiej Izby Rzeczników Patentowych",
+            "okręgowe zgromadzenie rzeczników patentowych",
+            "Prezydium Krajowej Rady Rzeczników Patentowych"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może udzielić dalszego pełnomocnictwa (substytucji):",
+        "answers": [
+            "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu",
+            "wyłącznie innemu rzecznikowi patentowemu",
+            "innemu rzecznikowi patentowemu, a także po upływie osiemnastu miesięcy od rozpoczęcia aplikacji aplikantowi rzecznikowskiemu oraz adwokatowi lub radcy prawnemu w zakresie dotyczącym znak towarowych"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy może występować w charakterze pełnomocnika w:",
+        "answers": [
+            "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+            "postępowaniu przed Urzędem Patentowym, z wyjątkiem występowania w charakterze pełnomocnika przed sądami i organami orzekającymi w sprawach własności przemysłowej oraz z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym",
+            "postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, w postępowaniu karnym i postępowaniu karnym skarbowym"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rozprawa przed Sądem Dyscyplinarnym jest:",
+        "answers": [
+            "niejawna",
+            "jawna dla rzeczników patentowych i aplikantów",
+            "jawna wyłącznie dla rzeczników patentowych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych decyzję o wpisie lub odmowie wpisu na listę rzecznik patentowych i o skreśleniu lub odmowie skreślenia z tej listy, a także decyzję uzależniającą dokonanie wpisu od odbycia uzupełniającej aplikacji rzecznikowskiej lub złożenia egzaminu uzupełniającego, wydaje:",
+        "answers": [
+            "Prezes Urzędu Patentowego",
+            "Prezes Polskiej Izby Rzecznik Patentowych",
+            "Minister Przedsiębiorczości i Technologii"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych zawód rzecznika patentowego polega na świadczeniu pomocy w sprawach:",
+        "answers": [
+            "własności intelektualnej",
+            "własności przemysłowej",
+            "własności przemysłowej i prawa autorskiego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy w wykonywaniu zawodu podlega:",
+        "answers": [
+            "tylko ustawom",
+            "ustawom i rozporządzeniom",
+            "ustawom i zarządzeniom Prezydium Polskiej Izby Rzecznik Patentowych"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej znakami towarowymi podrobionymi są:",
+        "answers": [
+            "użyte bezprawnie znaki identyczne dla towarów objętych prawem ochronnym",
+            "użyte bezprawnie znaki identyczne lub takie, które nie mogą być odróżnione w zwykłych warunkach obrotu od znak zarejestrowanych, dla towar objętych prawem ochronnym",
+            "użyte bezprawnie znaki podobne dla towarów objętych prawem ochronnym"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Skargę na decyzję Urzędu Patentowego wnosi się do:",
+        "answers": [
+            "Wojewódzkiego Sądu Administracyjnego",
+            "Wojewódzkiego Sądu Administracyjnego za pośrednictwem Urzędu Patentowego RP",
+            "Naczelnego Sądu Administracyjnego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej w trybie postępowania spornego przed Urzędem Patentowym nie są rozstrzygane sprawy o:",
+        "answers": [
+            "zmianę decyzji o udzieleniu licencji przymusowej",
+            "unieważnienie patentu europejskiego, udzielonego w trybie określonym w Konwencji o patencie europejskim",
+            "ustalenie autorstwa projektu wynalazczego"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej umotywowany sprzeciw wobec prawomocnej decyzji Urzędu Patentowego o udzieleniu patentu, prawa ochronnego na wzór użytkowy lub prawa z rejestracji, w ciągu 6 miesięcy od daty opublikowania w \"Wiadomościach Urzędu Patentowego\" informacji o udzieleniu prawa może wnieść:",
+        "answers": [
+            "każdy",
+            "wyłącznie podmiot posiadający interes prawny",
+            "wyłącznie podmiot uprawniony do wcześniejszego prawa wyłącznego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy informuje o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony nie później niż na sześć miesięcy przed dniem, w ktym upływa poprzedni okres ochrony:",
+        "answers": [
+            "uprawnionego z patentu",
+            "uprawnionego z prawa ochronnego na wzór użytkowy",
+            "uprawnionego z prawa ochronnego na znak towarowy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej oznaczeniami geograficznymi, w rozumieniu ustawy, są",
+        "answers": [
+            "oznaczenia słowne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+            "oznaczenia słowne i graficzne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+            "oznaczenia odnoszące się pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), kte identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo ochronne na znak towarowy może być przeniesione na rzecz kilku osób jako:",
+        "answers": [
+            "wspólne prawo ochronne",
+            "współwłasność prawa w częściach ułamkowych",
+            "współwłasność łączna"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Postępowanie sporne przed Urzędem Patentowym RP, zgodnie z ustawą Prawo własności przemysłowej wszczyna się:",
+        "answers": [
+            "z urzędu",
+            "na wniosek",
+            "na polecenie Dyrektora Departamentu Orzecznictwa"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego wydanej po rozpatrzeniu sprzeciwu wobec zgłoszenia znaku towarowego stronom przysługuje:",
+        "answers": [
+            "wniosek o ponowne rozpatrzenie sprawy",
+            "zażalenie",
+            "odwołanie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej znakiem towarowym może być:",
+        "answers": [
+            "każde oznaczenie, które można przedstawić w sposób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towarów jednego przedsiębiorstwa od towarów innego przedsiębiorstwa",
+            "każde oznaczenie umożliwiające odróżnienie towarów jednego przedsiębiorstwa od towarów innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znaków towarowych w sposób pozwalający na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony",
+            "każde oznaczenie umożliwiające odróżnienie towarów jednego przedsiębiorstwa od towarów innego przedsiębiorstwa"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej:",
+        "answers": [
+            "na wniosek uprawnionego z patentu, dodatkowego prawa ochronnego, prawa ochronnego na wzór użytkowy lub prawa z rejestracji, Urząd Patentowy RP informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
+            "na wniosek uprawnionego z prawa ochronnego na znak towarowy Urząd Patentowy informuje uprawnionego o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony",
+            "Urząd Patentowy RP nie jest ustawowo zobligowany do informowania uprawnionych do praw wyłącznych o upływających terminach uiszczenia opłat okresowych"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej oznaczeniami geograficznymi, w rozumieniu ustawy, są:",
+        "answers": [
+            "oznaczenia słowne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+            "oznaczenia słowne i graficzne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru",
+            "oznaczenia odnoszące się pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy informuje o zbliżającym się terminie uiszczenia opłaty za dalszy okres ochrony nie później niż na sześć miesięcy przed dniem, w którym upływa poprzedni okres ochrony:",
+        "answers": [
+            "uprawnionego z patentu",
+            "uprawnionego z prawa ochronnego na wzór użytkowy",
+            "uprawnionego z prawa ochronnego na znak towarowy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych decyzję o wpisie lub odmowie wpisu na listę rzeczników patentowych i o skreśleniu lub odmowie skreślenia z tej listy, a także decyzję uzależniającą dokonanie wpisu od odbycia uzupełniającej aplikacji rzecznikowskiej lub złożenia egzaminu uzupełniającego, wydaje:",
+        "answers": [
+            "Prezes Urzędu Patentowego",
+            "Prezes Polskiej Izby Rzeczników Patentowych",
+            "Minister Przedsiębiorczości i Technologii"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Wyrażenie inventive step - erfinderische Tatigkeit - activite inventive w kontekście wynalazku oznacza:",
+        "answers": [
+            "etap wynalazczy",
+            "poziom wynalazczy",
+            "krok wynalazczy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Wyraz disclosure - Offenbarung - expose w kontekście wynalazku oznacza:",
+        "answers": [
+            "ujawnienie",
+            "wyjawienie",
+            "odtajnienie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Wyrażenie 'claiming the seniority of a national trade mark' i 'inanspruchnahme desZeitrangs einer nationalem Marke'  'revendication de lanciennete de la marqu nationale' w kontekście znaku towarowego oznacza:",
+        "answers": [
+            "zastrzeżenie starszeństwa krajowego znaku towarowego",
+            "rezygnacja ze starszego krajowego znaku towarowego",
+            "zmiana starszeństwa krajowego znaku towarowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją referendum ogólnokrajowe jest wiążące:",
+        "answers": [
+            "jeżeli wzięła w nim udział więcej niż połowa uprawnionych do głosowania",
+            "jeżeli wzięło w nim udział 30% uprawnionych do głosowania",
+            "zawsze, bez względu ile osób wzięło w nim udział"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją ważność wyborów do Sejmu stwierdza:",
+        "answers": [
+            "Sąd Najwyższy",
+            "Trybunał Konstytucyjny",
+            "Naczelny Sąd Administracyjny"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej ustanowienie zastawu rejestrowego na patencie:",
+        "answers": [
+            "jest niedopuszczalne",
+            "jest skuteczne z chwilą wpisu do rejestru zastaw i podlega ujawnieniu w rejestrze patentowym",
+            "jest skuteczne z chwilą wpisu do rejestru patentowego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej w sprawach nieuregulowanych w ustawie Prawo własności przemysłowej w postępowaniu przed Urzędem Patentowym RP stosuje się odpowiednio przepisy:",
+        "answers": [
+            "kodeksu cywilnego",
+            "kodeksu postępowania cywilnego, z wyjątkiem przepisów o kosztach postępowania",
+            "kodeksu postępowania administracyjnego"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, na wzór przemysłowy udziela się:",
+        "answers": [
+            "patentu",
+            "prawa ochronnego",
+            "prawa z rejestracji"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, patent wygasa na przykład na skutek:",
+        "answers": [
+            "śmierci uprawnionego z patentu",
+            "nieuiszczenia w przewidzianym terminie opłaty okresowej",
+            "uznania przez Urząd Patentowy RP wynalazku za wynalazek tajny"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, wzór przemysłowy stanowi wyłącznie taka postać wytworu lub jego części, która jest nowa oraz:",
+        "answers": [
+            "posiada indywidualny charakter",
+            "stanowi rozwiązanie o charakterze technicznym",
+            "jest rozwiązaniem użytecznym"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej obywatel polski ma prawo wybierania senatorów, jeżeli najpóźniej w dniu głosowania kończy:",
+        "answers": [
+            "17 lat",
+            "18 lat",
+            "21 lat"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczpospolita Polska może na podstawie umowy międzynarodowej przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organu władzy państwowej w niektórych sprawach. Ustawa, wyrażająca zgodę na ratyfikację ww. umowy międzynarodowej jest uchwalana:",
+        "answers": [
+            "przez Sejm większością 3/4 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 3/4 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+            "Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+            "przez Sejm większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby senatorów"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej przedstawicielem Rady Ministrów w województwie jest:",
+        "answers": [
+            "starosta",
+            "wojewoda",
+            "sejmik województwa"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej stronami postępowania w sprawie sprzeciwu wobec zgłoszenia znaku towarowego są:",
+        "answers": [
+            "Wnoszący sprzeciw i Urząd Patentowy",
+            "Wnoszący sprzeciw i Zgłaszający",
+            "Wnoszący sprzeciw, Zgłaszający i Urząd Patentowy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej z wnioskiem o unieważnienie prawa ochronnego na znak towarowy nie można wystąpić:",
+        "answers": [
+            "z powodu kolizji z wcześniejszym znakiem towarowym, jeżeli przez okres pięciu kolejnych lat używania zarejestrowanego znaku towarowego wnioskodawca, będąc świadomym jego używania, nie sprzeciwiał się temu",
+            "z powodu kolizji z wcześniejszym znakiem, jeżeli przez okres trzech kolejnych lat używania zarejestrowanego znaku towarowego wnioskodawca, będąc świadomym jego używania, nie sprzeciwiał się temu",
+            "z powodu kolizji z wcześniejszym znakiem, jeżeli przez okres pięciu kolejnych lat używania zarejestrowanego znaku towarowego wnioskodawca nie sprzeciwiał się temu, niezależnie od tego czy miał świadomość używania kolizyjnego znaku czy nie"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych prawo wykonywania zawodu rzecznika patentowego powstaje:",
+        "answers": [
+            "po pozytywnym zdaniu egzaminu na rzecznika patentowego",
+            "po złożeniu ślubowania, z dniem dokonania wpisu na listę rzeczników patentowych",
+            "z dniem wyznaczenia siedziby, gdzie zawód będzie wykonywany"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej w terminie 6 miesięcy od informacji o udzieleniu prawa wyłącznego możliwe jest:",
+        "answers": [
+            "złożenie sprzeciwu od decyzji o udzieleniu prawa z rejestracji na wzór przemysłowy",
+            "złożenie wniosku o uchwałę decyzji",
+            "złożenie sprzeciwu od decyzji udzielenia prawa ochronnego na znak towarowy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej prawo do zaskarżania orzeczeń i decyzji wydanych w pierwszej instancji ma:",
+        "answers": [
+            "każda ze stron, z wyjątkami określonymi ustawą",
+            "każdy, kogo interesu prawnego dotyczy postępowanie",
+            "każda ze stron, bez żadnych ograniczeń"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej przepisy Konstytucji RP stosuje się:",
+        "answers": [
+            "zawsze bezpośrednio",
+            "pośrednio, chyba że Konstytucja stanowi inaczej",
+            "bezpośrednio, chyba że Konstytucja stanowi inaczej"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych kancelaria patentowa może być utworzona i prowadzona jako spółka z ograniczoną odpowiedzialnością lub spółka akcyjna spełniająca następujące warunki:",
+        "answers": [
+            "większość udziałów (akcji) posiadają rzecznicy patentowi",
+            "nie mogą posiadać udziałów (akcji) rzecznicy patentowi oraz adwokaci",
+            "niedopuszczalna jest spółka rzeczników patentowych i adwokatów"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych składka opłacana przez aplikanta na potrzeby samorządu wynosi:",
+        "answers": [
+            "30% składki rzecznika patentowego",
+            "50% składki rzecznika patentowego",
+            "aplikant nie opłaca składek"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych ślubowanie składane przez rzecznika patentowego odbiera:",
+        "answers": [
+            "Prezes Urzędu Patentowego",
+            "Prezes Urzędu Patentowego w obecności przedstawiciela samorządu",
+            "Prezes Polskiej Izby Rzeczników Patentowych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych do Okręgowego Zgromadzenia Rzeczników Patentowych należy m.in.",
+        "answers": [
+            "organizowanie aplikacji rzecznikowskiej",
+            "wybór Dziekana Okręgu",
+            "wybór reprezentanta na Krajowy Zjazd"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych skreślenie z listy rzeczników patentowych następuje w przypadku:",
+        "answers": [
+            "nieuiszczania składek członkowskich za okres dłuższy niż rok",
+            "nieuiszczania składek członkowskich za okres dłuższy niż dwa lata",
+            "nieuiszczania składek członkowskich za okres dłuższy niż 6 miesięcy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa Rady Ministrów desygnuje:",
+        "answers": [
+            "Marszałek Senatu",
+            "Prezydent Rzeczypospolitej Polskiej",
+            "Pierwszy Prezes Sądu Najwyższego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej stroną w postępowaniu przed Urzędem Patentowym w sprawie uzyskania patentu na wynalazek jest:",
+        "answers": [
+            "twórca",
+            "twórca i zgłaszający",
+            "zgłaszający"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych rzecznik patentowy ma uprawnienia do świadczenia pomocy:",
+        "answers": [
+            "wyłącznie prawnej",
+            "wyłącznie technicznej",
+            "prawnej i technicznej"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych do Krajowego Zjazdu należy:",
+        "answers": [
+            "rozpatrywanie wniosków Komisji Rewizyjnej",
+            "wybór członków komisji aplikacyjnej",
+            "uchwalenie zasad etyki"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej od decyzji Urzędu Patentowego stronie służy:",
+        "answers": [
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi dwa miesiące od dnia doręczenia stronie decyzji",
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi trzy miesiące od dnia doręczenia stronie decyzji",
+            "wniosek o ponowne rozpatrzenie sprawy w rozumieniu Kodeksu postępowania administracyjnego. Termin do złożenia takiego wniosku wynosi jeden miesiąc od dnia doręczenia stronie decyzji"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją władzę ustawodawczą sprawują:",
+        "answers": [
+            "Sejm i Senat",
+            "Prezydent Rzeczypospolitej Polskiej i Rada Ministrów",
+            "tylko Sejm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją warunkiem wejścia w życie ustaw jest:",
+        "answers": [
+            "ich ogłoszenie",
+            "ich podpisanie przez Prezydenta RP",
+            "ich uchwalenie przez Sejm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z przepisami ustawy - Prawo własności przemysłowej opłatę za utrzymanie patentu wnosi się:",
+        "answers": [
+            "jednokrotnie po udzieleniu patentu",
+            "co roku",
+            "co 5 lat"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej akty praw miejscowego:",
+        "answers": [
+            "nie są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+            "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej",
+            "są źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, ale tylko na obszarze działania organu, które je ustanowiły"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej Urząd Patentowy RP:",
+        "answers": [
+            "jest organem administracji rządowej",
+            "jest organem samorządu zawodowego",
+            "jest organem administracji publicznej"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek może być przedmiotem patentu, jeżeli:",
+        "answers": [
+            "jest nowy, posiada poziom wynalazczy i nadaje się do przemysłowego zastosowania",
+            "jest nowy i stanowi rozwiązanie o charakterze technicznym",
+            "jest nowy i nie jest sprzeczny z zasadami współżycia społecznego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej wzór przemysłowy:",
+        "answers": [
+            "musi być nowy i posiadać indywidualny charakter",
+            "musi być nowy i użyteczny",
+            "musi być nowy i zgodny z zasadami współżycia społecznego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo ochronne na znak towarowy:",
+        "answers": [
+            "może być udzielone na znak towarowy, który jest nowy i ma charakter odróżniający",
+            "może być udzielone na znak towarowy, który jest powszechnie znany",
+            "może być udzielone na znak towarowy, który jest używany w obrocie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej podanie o udzielenie patentu:",
+        "answers": [
+            "musi zawierać nazwisko twórcy wynalazku",
+            "musi być złożone w formie pisemnej",
+            "musi być złożone w formie elektronicznej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej prawo do patentu przysługuje:",
+        "answers": [
+            "twórcy wynalazku",
+            "zgłaszającemu wynalazek",
+            "tylko osobom fizycznym"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek nie może być przedmiotem patentu, jeżeli:",
+        "answers": [
+            "jest sprzeczny z porządkiem publicznym lub dobrymi obyczajami",
+            "jest znany w danej dziedzinie",
+            "jest stosowany w obrocie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Decyzję o udzieleniu prawa ochronnego na znak towarowy wydano 12 września 2020 roku. Pierwszy okres ochronny zakończy się:",
+        "answers": [
+            "12 września 2040 roku",
+            "12 września 2030 roku",
+            "Podane informacje nie pozwalają na wskazanie tej daty"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Wynalazca zapomniał o wniesieniu opłaty za kolejny okres ochronny za wynalazek. Przypomniał sobie o tym po roku.",
+        "answers": [
+            "Nic nie szkodzi, zaległą opłatę można wnieść w dowolnym momencie powiększoną o odsetki ustawowe.",
+            "Termin do wniesienia zaległej opłaty nie podlega przywróceniu.",
+            "Termin do wniesienia zaległej opłaty można przywrócić po wniesieniu opłaty 100% wartości zaległej opłaty w terminie 9 miesięcy od daty, w której opłata powinna być wniesiona."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Patent światowy obowiązuje:",
+        "answers": [
+            "Na całym świecie",
+            "Unia Europejska, Rosja, USA i Chiny",
+            "Taki patent nie istnieje"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Znak towarowy może być opatentowany gdy:",
+        "answers": [
+            "Nie można opatentować znaku towarowego",
+            "Jest nowy i nieoczywisty",
+            "Nigdy nie był używany w obrocie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Patent wygasa, jeśli wynalazca:",
+        "answers": [
+            "Stracił obywatelstwo polskie",
+            "Umarł",
+            "W żadnym z powyższych przypadków patent nie wygasa"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Znak towarowy wygaśnie, jeśli:",
+        "answers": [
+            "Składając wniosek o przedłużenie ochrony uprawniony nie udowodni, że znak towarowy był używany w obrocie",
+            "Nie zostanie opłacony kolejny okres ochronny",
+            "Znak towarowy jest używany wyłącznie przez licencjobiorcę"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
+        "answers": [
+            "Prezydenta",
+            "Narodu",
+            "Parlamentu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej ograniczenie wolności działalności gospodarczej jest dopuszczalne:",
+        "answers": [
+            "Tylko w drodze ustawy i tylko ze względu na ważny interes publiczny",
+            "Gdy wymaga tego ważny interes państwa",
+            "Tylko w drodze ustawy podjętej większością głosów przez Sejm"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej własność może być ograniczona:",
+        "answers": [
+            "Tylko w drodze ustawy o wywłaszczeniu z uwagi na ważny interes publiczny",
+            "W drodze ustawy",
+            "Tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa własności"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa nie są:",
+        "answers": [
+            "Nieratyfikowane umowy międzynarodowe",
+            "Rozporządzenia",
+            "Ustawy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybory do Sejmu są:",
+        "answers": [
+            "Bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym",
+            "Powszechne i bezpośrednie oraz odbywają się w głosowaniu tajnym",
+            "Powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa Naczelnego Sądu Administracyjnego powołuje:",
+        "answers": [
+            "Prezydent Rzeczypospolitej na sześcioletnią kadencję spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego",
+            "Prezydent Rzeczypospolitej na pięcioletnią kadencję spośród kandydatów przedstawionych przez Krajową Radę Sądownictwa",
+            "Prezes Rady Ministrów na czteroletnią kadencję spośród kandydatów przedstawionych przez Sąd Najwyższy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej pierwszeństwo konwencyjne do uzyskania patentu przysługuje w Rzeczypospolitej Polskiej, na zasadach określonych w umowach międzynarodowych, według daty pierwszego prawidłowego zgłoszenia wynalazku we wskazanym państwie, jeżeli od tej daty zgłoszenie w Urzędzie Patentowym dokonane zostanie w okresie:",
+        "answers": [
+            "12 miesięcy",
+            "6 miesięcy",
+            "3 miesięcy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej wynalazek uważa się za posiadający poziom wynalazczy, jeżeli wynalazek ten:",
+        "answers": [
+            "Nie jest częścią stanu techniki",
+            "Nie wynika dla znawcy, w sposób oczywisty, ze stanu techniki",
+            "Według wynalazku może być uzyskiwany wytwór lub wykorzystywany sposób, w rozumieniu technicznym, w jakiejkolwiek działalności przemysłowej, nie wykluczając rolnictwa"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej zakres przedmiotowy patentu określają:",
+        "answers": [
+            "Zastrzeżenia patentowe zawarte w opisie patentowym",
+            "Zastrzeżenia patentowe, opis wynalazku oraz rysunki",
+            "Zastrzeżenia patentowe, oraz rysunki"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej wzorem użytkowym jest:",
+        "answers": [
+            "Nowe i posiadające poziom wynalazczy rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci",
+            "Nowe i użyteczne rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci",
+            "Nowe i nadające się do przemysłowego zastosowania rozwiązanie o charakterze technicznym, dotyczące kształtu lub budowy przedmiotu o trwałej postaci albo przedmiotu składającego się ze związanych ze sobą funkcjonalnie części o trwałej postaci."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej za względną przeszkodę rejestracji znaku towarowego nie uznaje się:",
+        "answers": [
+            "Wcześniejszych praw osobistych i majątkowych osób trzecich",
+            "Braku zdolności odróżniającej",
+            "Unijnego renomowanego znaku towarowego z wcześniejszym pierwszeństwem chronionego na rzecz osoby trzeciej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej w trybie postępowania cywilnego nie są rozpoznawane sprawy:",
+        "answers": [
+            "Ustalenie autorstwa projektu wynalazczego",
+            "Stwierdzenie utraty prawa używania oznaczenia geograficznego",
+            "Unieważnienie patentu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej kto, w celu wprowadzenia do obrotu, oznacza towary podrobionym znakiem towarowym, w tym podrobionym znakiem towarowym Unii Europejskiej, zarejestrowanym znakiem towarowym lub znakiem towarowym Unii Europejskiej, którego nie ma prawa używać lub dokonuje obrotu towarami oznaczonymi takimi znakami, podlega:",
+        "answers": [
+            "Tylko grzywnie",
+            "Grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2",
+            "Karze ograniczenia wolności albo pozbawienia wolności do lat 3"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych organem samorządu nie jest:",
+        "answers": [
+            "Krajowy Zjazd Rzeczników Patentowych",
+            "Komisja Rewizyjna",
+            "Komisja Aplikacji"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych stronami w postępowaniu dyscyplinarnym są:",
+        "answers": [
+            "Rzecznik Dyscyplinarny, obwiniony i poszkodowany",
+            "Rzecznik Dyscyplinarny, wnioskodawca (jeśli inny niż poszkodowany) obwiniony i poszkodowany",
+            "Tylko obwiniony"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych w zakres kompetencji Prezesa Polskiej Izby Rzeczników Patentowych nie wchodzi:",
+        "answers": [
+            "Przewodniczenie Krajowej Radzie Rzeczników Patentowych",
+            "Prowadzenie listy aplikantów",
+            "Zawieszenie prawa wykonywania zawodu rzecznik patentowego"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "W Urzędzie Patentowym RP zgłoszono jako wynalazek system telekomunikacyjny, który zgodnie z przykładem wykonania umożliwia przesłanie informacji do systemu Alpha Centauri w pakietach o rozmiarze 128 bitów. Opóźnienie zwracanych pakietów przesyłanych tam i z powrotem mierzone za pomocą polecenia PING wyniosło 10 s. Urząd Patentowy RP:",
+        "answers": [
+            "Odmówił udzielenia patentu z uwagi na brak technicznego charakteru wynalazku",
+            "Utajnił wynalazek a Ministerstwo Spraw Wewnętrznych zaczęło stosować system do wysyłania sygnałów z propozycjami transferu technologii do obcych cywilizacji.",
+            "Odmówił udzielenia patentu na podstawie art. 28 ust. 1 pkt 41) w brzmieniu: Za wynalazki nie uważa się w szczególności: Wytworów lub sposobów, których: A) możliwość wykorzystania nie może być wykazana lub B) wykorzystanie nie przyniesie rezultatu spodziewanego przez zgłaszającego - w świetle powszechnie przyjętych i uznanych zasad nauki;"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, zgłoszenie wzoru przemysłowego powinno zawierać przynajmniej:",
+        "answers": [
+            "Ilustrację wzoru przemysłowego",
+            "Ilustrację wzoru przemysłowego i podanie zawierające co najmniej oznaczenie zgłaszającego, określenie przedmiotu zgłoszenia oraz wniosek o udzielenie prawa z rejestracji",
+            "Ilustrację wzoru przemysłowego i podanie zawierające co najmniej oznaczenie zgłaszającego, określenie przedmiotu zgłoszenia, wniosek o udzielenie prawa z rejestracji a także opłatę"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, jeżeli Urząd Patentowy stwierdzi, że zgłoszenie wzoru przemysłowego nie zostało sporządzone prawidłowo:",
+        "answers": [
+            "Umarza postępowanie",
+            "Wzywa zgłaszającego do uzupełnienia braków a w przypadku braku ich uzupełnienia, pozostawia wniosek bez rozpoznania",
+            "Wydaje decyzję o odmowie udzielenia prawa z rejestracji"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, udzielenie prawa z rejestracji wzoru przemysłowego stwierdza się poprzez:",
+        "answers": [
+            "Wydanie świadectwa rejestracji",
+            "Doręczenie zgłaszającemu zawiadomienia o wpisie do rejestru wzorów przemysłowych",
+            "Wpis do rejestru wzorów przemysłowych z zawiadomieniem zgłaszającego o dokonaniu wpisu"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, jeżeli dwie lub więcej osób korzystających z tej samej daty pierwszeństwa zgłosiło identyczne albo podobne znaki towarowe:",
+        "answers": [
+            "Prawo ochronne na znak towarowy może być udzielone na rzecz każdej z nich",
+            "Prawo ochronne na znak towarowy nie może być udzielone na rzecz każdej z nich",
+            "Prawo ochronne na znak towarowy może być udzielone na rzecz każdej z nich pod warunkiem podpisania regulaminu używania znaków"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne do wspólnego znaku towarowego może nabyć:",
+        "answers": [
+            "Organizacja mająca zdolność do nabywania praw i zaciągania zobowiązań w swoim imieniu powołana do reprezentowania interesów przedsiębiorców",
+            "Każda grupa przedsiębiorców",
+            "Przedsiębiorcy pochodzący z różnych województw"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy może być przedłużone na kolejny okres 10 lat:",
+        "answers": [
+            "Może być przedłużone na kolejny okres 10 lat, wyłącznie na skutek złożenia wniosku przez uprawnionego o przedłużenie ochrony",
+            "Może być przedłużone na kolejny okres 10 lat, wyłącznie po uiszczeniu opłaty",
+            "Może być przedłużone na kolejny okres 10 lat, wyłącznie na skutek złożenia wniosku przez uprawnionego o przedłużenie ochrony oraz wniesieniu opłaty"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy:",
+        "answers": [
+            "Nie jest zbywalne",
+            "Jest zbywalne ale nie podlega dziedziczeniu",
+            "Jest zbywalne i podlega dziedziczeniu"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, licencja:",
+        "answers": [
+            "Nie podlega wpisowi do rejestru znaków",
+            "Podlega wpisowi do rejestru znaków na wniosek zainteresowanego",
+            "Podlega wpisowi do rejestru wyłącznie wówczas, jeśli jest taki zapis w umowie licencyjnej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, prawo ochronne na znak towarowy wygasa:",
+        "answers": [
+            "Na skutek upływu okresu, na który zostało udzielone lub na skutek zrzeczenia się prawa przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą na nim prawa",
+            "Jedynie na skutek upływu okresu, na który zostało udzielone",
+            "Jedynie na skutek zrzeczenia się prawa przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą na nim prawa"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, oznaczeniami geograficznymi są:",
+        "answers": [
+            "Nazwy regionalne służące do wyróżniania towarów",
+            "Oznaczenia pochodzenia jako pochodzenia towarów służące do wyróżniania towarów spośród towarów pochodzących z regionów chronionych",
+            "Nazwy regionalne służące do wyróżniania nazw organizacji produkujących towary regionalne"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą Prawo własności przemysłowej, ochrona oznaczenia geograficznego:",
+        "answers": [
+            "Trwa 20 lat",
+            "Trwa 10 lat",
+            "Jest bezterminowa"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, rzecznik patentowy może odmówić udzielenia pomocy lub wypowiedzieć pełnomocnictwo:",
+        "answers": [
+            "W każdym czasie",
+            "Tylko z ważnych powódów, o których informuje zainteresowanego",
+            "Tylko wówczas, gdy klient nie zapłaci wynagrodzenia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, rzecznik patentowy traci prawo do wykonywania zawodu z dniem:",
+        "answers": [
+            "Skreślenia z listy rzeczników patentowych",
+            "Uprawomocnienia się orzeczenia sądu dyscyplinarnego o pozbawieniu prawa do wykonywania zawodu",
+            "Uprawomocnienia się orzeczenia Sądu Najwyższego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, organem samorządu jest:",
+        "answers": [
+            "Sąd Dyscyplinarny I instancji",
+            "Okręgowa rada rzeczników patentowych",
+            "Zastępca rzecznika dyscyplinarnego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, organy samorządu podejmują uchwały:",
+        "answers": [
+            "Bezwzględną większością głosów, o ile statut nie stanowi inaczej",
+            "Kwalifikowaną 2/3 większością głosów, o ile statut nie stanowi inaczej",
+            "Zwykłą większością głosów, o ile statut nie stanowi inaczej"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, Krajowy Zjazd Rzecznik Patentowych zwołuje:",
+        "answers": [
+            "Krajowa Rada Rzecznik Patentowych",
+            "Prezes PIRP",
+            "Komisja Rewizyjna"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, uchwalenie statutu jest kompetencją:",
+        "answers": [
+            "Krajowej Rady Rzecznik Patentowych, w okresie pomiędzy posiedzeniami Krajowego Zjazdu:",
+            "Krajowego Zjazdu Rzeczników Patentowych",
+            "Okręgowych rad rzecznik patentowych i Krajowej Rady Rzecznik Patentowych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, Nadzwyczajny Zjazd Rzeczników Patentowych powinien być zwołany w ciągu:",
+        "answers": [
+            "Nie później niż w ciągu miesiąca od daty wpływu wniosku o zwołanie Zjazdu",
+            "Niezwłocznie, lecz nie później niż w ciągu dwóch tygodni od daty wpływu wniosku o zwołanie Zjazdu",
+            "Nie później niż w ciągu dwóch miesięcy od daty wpływu wniosku o zwołanie Zjazdu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, Prezes Urzędu Patentowego RP:",
+        "answers": [
+            "Może zaskarżyć każdą uchwałę organu samorządu",
+            "Nie może zaskarżyć uchwały organu samorządu",
+            "Może zaskarżyć każdą uchwałę organu samorządu, o ile wcześniej wezwie organ samorządu do jej zmiany lub uchylenia, a wezwany organ nie zastosuje się do wezwania"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, karami dyscyplinarnymi jest:",
+        "answers": [
+            "Kara pieniężna nie wyższa niż 5 krotność miesięcznej składki członkowskiej obowiązującej w dacie orzeczenia dyscyplinarnego",
+            "Upomnienie dziekańskie",
+            "Zawieszenie prawa wykonywania zawodu rzecznika patentowego na czas od trzech miesięcy do pięciu lat"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych, obok kary nagany z ostrzeżeniem można w stosunku do rzecznika patentowego orzec dodatkowo zakaz patronatu na czas:",
+        "answers": [
+            "Od roku do pięciu lat",
+            "Do pół roku",
+            "Dożywotnio"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Konstytucja Rzeczypospolitej Polskiej uchwalona została przez:",
+        "answers": [
+            "Zgromadzenie Narodowe",
+            "Sejm",
+            "Senat"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Projekt ustawy o zmianie Konstytucji może przedłożyć:",
+        "answers": [
+            "grupa co najmniej 230 posłów lub Prezydent Rzeczypospolitej Polskiej",
+            "co najmniej 1/5 ustawowej liczby posłów, Prezydent Rzeczypospolitej Polskiej oraz Rada Ministrów",
+            "co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej Polskiej."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Przedłużenie stanu wyjątkowego może nastąpić:",
+        "answers": [
+            "Tylko raz, za zgodą Sejmu i na czas nie dłuższy niż 60 dni.",
+            "Dwa razy co 6 miesięcy",
+            "Tylko raz w danym roku kalendarzowym"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Najwyższa Izba Kontroli podlega:",
+        "answers": [
+            "Senatowi",
+            "Sejmowi",
+            "Prezydentowi"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Prezydent, zgodnie z obowiązującą Konstytucja RP, jest wybierany na kadencję, która trwa:",
+        "answers": [
+            "3 lata",
+            "4 lata",
+            "5 lat"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z obowiązującą Konstytucją RP zasady i tryb ogłaszania akt normatywnych określa:",
+        "answers": [
+            "Ustawa",
+            "Rozporządzenie",
+            "Uchwała Sejmu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z obowiązującą Konstytucją RP, Przewodniczącym Trybunału Stanu jest:",
+        "answers": [
+            "Pierwszy Prezes Sądu Najwyższego",
+            "Minister Sprawiedliwości",
+            "Prezes Naczelnego Sądu Administracyjnego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ustawa Prawo własności przemysłowej nie normuje:",
+        "answers": [
+            "stosunków w zakresie topografii układów scalonych",
+            "stosunków wynikających z praw autorskich",
+            "zasad, na jakich przedsiębiorcy mogą przyjmować projekty racjonalizatorskie i wynagradzać ich twórców"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Projektami wynalazczymi nie są:",
+        "answers": [
+            "wynalazki i wzory użytkowe",
+            "projekty architektoniczne",
+            "wzory przemysłowe"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Patent nie udziela się na:",
+        "answers": [
+            "roślin lub rasy zwierząt",
+            "ulepszenie lub uzupełnienie wynalazku",
+            "nowe zastosowanie leku"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Patent na ulepszenie lub uzupełnienie wynalazku to:",
+        "answers": [
+            "patent dodatkowy",
+            "patent uzupełniający",
+            "patent posiłkowy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Za wynalazek nie uważa się",
+        "answers": [
+            "odkryć i teorii naukowych",
+            "Substancji",
+            "Konstrukcji"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgłoszenie wynalazku powinno obejmować:",
+        "answers": [
+            "podanie, opis wynalazku, zastrzeżenia patentowe",
+            "podanie, opis wynalazku ujawniający jego istotę, zastrzeżenia patentowe i skrót opisu",
+            "podanie, opis wynalazku i rysunki"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Wynalazek może być uznany za tajny:",
+        "answers": [
+            "na podstawie decyzji Prezesa Urzędu Patentowego Rzeczpospolitej Polskiej",
+            "jeśli we wniosku o udzielenie patentu zgłaszający zastrzegł tajność wynalazku",
+            "jeśli dotyczy bezpieczeństwa lub obronności Państwa"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zakres przedmiotowy patentu jest określony:",
+        "answers": [
+            "na podstawie opisu wynalazku",
+            "we wniosku o udzielenie patentu",
+            "zgodnie z treścią zastrzeżeń patentowych"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Patenty są udzielane na wynalazki:",
+        "answers": [
+            "nowe i oryginalne",
+            "posiadające poziom wynalazczy i indywidualny charakter",
+            "nowe, posiadające poziom wynalazczy oraz nadające się do przemysłowego stosowania"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Czas trwania prawa ochronnego na wzór użytkowy liczy się od:",
+        "answers": [
+            "daty decyzji Urzędu Patentowego o udzieleniu prawa ochronnego",
+            "daty wniesienia opłaty za udzielenie prawa ochronnego",
+            "daty zgłoszenia wzoru użytkowego w Urzędzie Patentowym"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Patent:",
+        "answers": [
+            "jest zbywalny",
+            "jest zbywalny pod warunkiem uzyskania zgody Urzędu Patentowego na zbycie patentu",
+            "nie jest zbywalny"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Program komputerowy:",
+        "answers": [
+            "uważa się za wynalazek",
+            "uważa się za wynalazek pod warunkiem zrzeczenia się praw autorskich",
+            "nie uważa się za wynalazek"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Patent wygasa na skutek:",
+        "answers": [
+            "upływu okresu, na który został udzielony",
+            "unieważnienia",
+            "niekorzystania z wynalazku w okresie pięciu lat od daty udzielenia patentu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Urząd Patentowy odmawia udzielenia patentu, jeśli:",
+        "answers": [
+            "w podaniu nie wskazano adresu zgłaszającego",
+            "zgłoszenie wynalazku nie zawiera rysunku",
+            "wynalazek nie cechuje się nowością"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Udzielenie patentu stwierdza się poprzez:",
+        "answers": [
+            "wydanie dokumentu patentowego",
+            "publikację w Wiadomościach Urzędu Patentowego",
+            "wpis do Rejestru Patentów"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Umowa licencyjna na korzystanie z wynalazku nie może być zawarta na okres dłuższy niż:",
+        "answers": [
+            "żyje twórca",
+            "czas obowiązywania patentu",
+            "5 lat"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Na projekty racjonalizatorskie są udzielane:",
+        "answers": [
+            "prawa ochronne",
+            "patenty racjonalizatorskie",
+            "nie są udzielane żadne prawa wyłączne"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Wzorem przemysłowym jest:",
+        "answers": [
+            "nowy i posiadający techniczny charakter wytwór lub jego część",
+            "nowa postać wytworu lub jego części posiadająca indywidualny charakter",
+            "nowy przedmiot wytworzony w sposób przemysłowy lub rzemieślniczy o cechach użytkowych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Uprawniony z rejestracji na wzór przemysłowy może udzielić innej osobie upoważnienia do korzystania z jego wzoru:",
+        "answers": [
+            "w drodze umowy ustnej",
+            "w drodze umowy licencyjnej zawartej w formie pisemnej",
+            "wyłącznie w drodze umowy o przeniesienie prawa z rejestracji"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Który z poniższych przedmiotów własności przemysłowej nie musi cechować się nowością:",
+        "answers": [
+            "wynalazek",
+            "wzór przemysłowy",
+            "znak towarowy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Przedmiotem zgłoszenia znaku towarowego nie może być:",
+        "answers": [
+            "projekt architektoniczny",
+            "forma towaru",
+            "sygnał dźwiękowy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Wzór użytkowy różni się od wynalazku tym, że:",
+        "answers": [
+            "nie musi być nowym rozwiązaniem",
+            "nie musi posiadać poziomu wynalazczego",
+            "nie musi być rozwiązaniem technicznym"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Jeden znak towarowy można zgłosić:",
+        "answers": [
+            "dla dowolnej ilości towarów i usług",
+            "dla towarów i usług mieszczących się w trzech klasach Międzynarodowej Klasyfikacji Towarów i Usług",
+            "dla towarów i usług mieszczących się w jednej klasie Międzynarodowej Klasyfikacji Towar i Usług"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Czas trwania prawa ochronnego na wzór użytkowy wynosi:",
+        "answers": [
+            "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, z możliwością przedłużenia na kolejny 10 letni okres ochrony",
+            "10 lat od daty dokonania zgłoszenia w Urzędzie Patentowym",
+            "10 od daty wniesienia opłaty za pierwszy okres ochrony, określonej w decyzji udzieleniu prawa ochronnego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Topografia układów scalonych to rozwiązanie polegające na:",
+        "answers": [
+            "przestrzennym rozplanowaniu, aktywnych elementów jedno lub wielowarstwowego wytworu przestrzennego, utworzonego z materiałów półprzewodnikowych tworzących ciągłą warstwę, wyrażonym w dowolny sposób",
+            "przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu elementów, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego",
+            "przestrzennym rozplanowaniu aktywnych elementów jedno lub wielowarstwowego wytworu przestrzennego o trwałej postaci, nadającym się do przemysłowego stosowania"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "W Wiadomościach Urzędu Patentowego ogłasza się o:",
+        "answers": [
+            "udzieleniu prawa ochronnego na wzór przemysłowy",
+            "odmowie udzielenia dodatkowego prawa ochronnego",
+            "wygaśnięciu prawa wyłącznego po upływie okresu, na jaki prawo zostało udzielone"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Od decyzji Urzędu Patentowego przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie:",
+        "answers": [
+            "14 dni od dnia doręczenia decyzji",
+            "30 dni od dnia doręczenia decyzji",
+            "2 miesięcy od dnia dręczenia decyzji"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Organem samorządu rzeczników patentowych jest:",
+        "answers": [
+            "Krajowy Zjazd Rzeczników Patentowych",
+            "Prezydium Krajowej Rady Rzecznik Patentowych",
+            "Dziekan Okręgu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Na listę rzecznik patentowych może być wpisany wyłącznie ten, kto:",
+        "answers": [
+            "posiada obywatelstwo państwa członkowskiego",
+            "ma ograniczoną zdolność do czynności prawnych",
+            "posiada tytuł zawodowy co najmniej licencjata"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zawieszenie prawa wykonywania zawodu rzecznika patentowego następuje w przypadku:",
+        "answers": [
+            "zatrudnienia w urzędzie gminy",
+            "zatrudnienia w Urzędzie Patentowym",
+            "zatrudnienia w kancelarii radcy prawnego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Statut Polskiej Izby Rzeczników Patentowych uchwala:",
+        "answers": [
+            "Krajowa Rada Rzeczników Patentowych",
+            "Komisja Rewizyjna",
+            "Krajowy Zjazd Rzeczników Patentowych"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
+        "answers": [
+            "społeczeństwa",
+            "Narodu",
+            "przedstawicieli Narodu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczpospolita Polska jest:",
+        "answers": [
+            "państwem federacyjnym",
+            "państwem jednolitym",
+            "państwem złożonym"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Czas trwania patentu wynosi:",
+        "answers": [
+            "20 lat od daty dokonania zgłoszenia wynalazku w Urzędzie Patentowym",
+            "20 lat od daty udzielenia patentu",
+            "20 lat od daty wpisu patentu do rejestru patentowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Od decyzji o unieważnieniu prawa ochronnego wydanej w trybie postępowania spornego stronom przysługuje:",
+        "answers": [
+            "wniosek o ponowne rozpatrzenie sprawy w terminie jednego miesiąca od dnia jej doręczenia",
+            "skarga do sądu administracyjnego",
+            "zażalenie do Prezesa Urzędu Patentowego RP w terminie 30 dni od dnia jej doręczenia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Urząd Patentowy - w trybie postępowania spornego - rozstrzyga sprawy o:",
+        "answers": [
+            "dokonanie wpisu oznaczenia geograficznego do rejestru oznaczeń geograficznych prowadzonego przez Urząd Patentowy",
+            "unieważnienie dodatkowego prawa ochronnego",
+            "stwierdzenie wygaśnięcia prawa z rejestracji wzoru przemysłowego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "O wyłączeniu przewodniczącego kolegium orzekającego do spraw spornych rozstrzyga:",
+        "answers": [
+            "pozostałych dwóch członków kolegium oraz protokolant",
+            "kolegium w innym składzie",
+            "kierownik komórki organizacyjnej sprawującej obsługę kolegium orzekających"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Prawo do wykonywania zawodu rzecznika patentowego powstaje:",
+        "answers": [
+            "po złożeniu ślubowania, z dniem dokonania wpisu na listę rzeczników patentowych",
+            "po złożeniu z wynikiem pozytywnym egzaminu kwalifikacyjnego",
+            "po złożeniu z wynikiem pozytywnym egzaminu konkursowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Listę rzeczników patentowych prowadzi:",
+        "answers": [
+            "Krajowa Rada Rzeczników Patentowych",
+            "Prezes Krajowej Rady Rzeczników Patentowych",
+            "Urząd Patentowy RP"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Do Polskiej Izby Rzeczników Patentowych należą:",
+        "answers": [
+            "wyłącznie rzecznicy patentowi",
+            "wszyscy rzecznicy patentowi i aplikanci rzecznikowscy",
+            "rzecznicy patentowi i aplikanci rzecznikowscy, o ile złożą wniosek o przyjęcie w poczet członków Polskiej Izby Rzeczników Patentowych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Wybory Prezydenta Rzeczypospolitej Polskiej zarządza:",
+        "answers": [
+            "Marszałek Sejmu",
+            "Marszałek Senatu",
+            "Zgromadzenie Narodowe"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kadencja Prezydenta Rzeczypospolitej Polskiej rozpoczyna się:",
+        "answers": [
+            "w dniu ogłoszenia wyniku wyborów powszechnych",
+            "w dniu objęcia przez niego urzędu",
+            "nie później niż w czternastym dniu po opróżnieniu urzędu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Ważność referendum ogólnokrajowego stwierdza:",
+        "answers": [
+            "Zgromadzenie Narodowe na wniosek Marszałka Sejmu",
+            "Trybunał Konstytucyjny",
+            "Sąd Najwyższy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Informacje o udzieleniu praw wyłącznych ogłasza się w:",
+        "answers": [
+            "Wiadomościach Urzędu Patentowego",
+            "Monitorze Polskim",
+            "Biuletynie Urzędu Patentowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Na potwierdzenie danych zawartych w rejestrach prowadzonych przez Urząd Patentowy wydaje się:",
+        "answers": [
+            "zaświadczenia",
+            "wyciągi",
+            "dokumenty patentowe, świadectwa ochronne, świadectwa rejestracji"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Urząd Patentowy RP wydaje duplikat dokumentu stwierdzającego udzielenie prawa wyłącznego:",
+        "answers": [
+            "każdej osobie zainteresowanej po uiszczeniu stosownej opłaty",
+            "na wniosek uprawnionego",
+            "na wniosek każdej osoby zainteresowanej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Wypowiedzenie pełnomocnictwa przez rzecznika patentowego:",
+        "answers": [
+            "wymaga pisemnego oświadczenia mocodawcy o przyjęciu tego wypowiedzenia",
+            "zobowiązuje tego rzecznika do wykonywania wszystkich niezbędnych czynności w sprawach mocodawcy jeszcze przez trzy miesiące, jeżeli nie nastąpiło wcześniejsze objęcie sprawy przez innego rzecznika patentowego lub odwołanie przez osobę, która udzieliła pełnomocnictwa",
+            "może dotyczyć tylko niektórych spraw mocodawcy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Patentu udziela się od dnia:",
+        "answers": [
+            "wydania przez Urząd Patentowy decyzji o udzieleniu patentu",
+            "zgłoszenia wynalazku w Urzędzie Patentowym",
+            "upływu terminu sześciu miesięcy na wniesienie sprzeciwu wobec prawomocnej decyzji o udzieleniu patentu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Na postanowienia Urzędu Patentowego przysługuje stronie:",
+        "answers": [
+            "odwołanie do Prezesa Urzędu Patentowego",
+            "wniosek o ponowne rozpatrzenie sprawy",
+            "zażalenie do kolegium do spraw spornych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Jeśli dwie osoby, niezależnie od siebie, dokonały zgłoszenia identycznego znaku towarowego w tym samym dniu, Urząd Patentowy:",
+        "answers": [
+            "może udzielić na ten znak towarowy prawa ochronnego na rzecz każdej z tych osób",
+            "może udzielić na ten znak towarowy wyłącznie wstępnego prawa ochronnego na rzecz obu tych osób",
+            "odmawia wszczęcia postępowania w sprawie obu zgłoszeń"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Nadzór nad działalnością Urzędu Patentowego RP sprawuje:",
+        "answers": [
+            "Prezes Rady Ministrów",
+            "Sejmowa Komisja ds. Własności Intelektualnej",
+            "Minister właściwy do spraw gospodarki"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Wojewoda pełni w województwie rolę przedstawiciela:",
+        "answers": [
+            "Rady Ministrów",
+            "Prezesa Rady Ministrów",
+            "Prezydenta RP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Urząd Patentowy RP prowadzi rejestry:",
+        "answers": [
+            "oznaczeń topograficznych",
+            "dodatkowych praw ochronnych",
+            "majątkowych praw autorskich"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "W przypadku, gdy zgłaszający wykaże, że nie jest w stanie ponieść w pełnej wysokości opłaty za zgłoszenie znaku towarowego, Urząd Patentowy zwolni od tej opłaty:",
+        "answers": [
+            "w części lub w całości",
+            "tylko w części",
+            "w części lub w całości, o ile zgłaszający nie jest przedsiębiorcą"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Urząd Patentowy RP nie prowadzi:",
+        "answers": [
+            "rejestru oznaczeń geograficznych",
+            "rejestru topografii układów scalonych",
+            "rejestru zastawów na przedmiotach własności przemysłowej"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Na uchwałę w sprawie zwolnienia od odbycia aplikacji rzecznikowskiej kandydatowi służy:",
+        "answers": [
+            "skarga do Naczelnego Sądu Administracyjnego",
+            "skarga do Wojewódzkiego Sądu Administracyjnego",
+            "skarga do Prezesa Urzędu Patentowego RP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Na listę aplikantów rzecznikowskich może być wpisana osoba, która:",
+        "answers": [
+            "posiada obywatelstwo polskie, ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu rzecznika patentowego, ukończyła magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, w szczególności techniczne lub prawnicze",
+            "posiada obywatelstwo polskie, ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu rzecznika patentowego, ukończyła magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, w szczególności techniczne lub prawnicze i złoży oświadczenie o pokryciu kosztów aplikacji",
+            "posiada obywatelstwo polskie, ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu rzecznika patentowego, ukończyła magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, w szczególności techniczne lub prawnicze, pozytywnie zda egzamin konkursowy i złoży oświadczenie o pokryciu kosztów aplikacji"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Umowa sprzedaży prawa do uzyskania patentu:",
+        "answers": [
+            "jest niedopuszczalna do czasu wydania decyzji o udzieleniu patentu",
+            "musi być zawarta z zachowaniem formy pisemnej",
+            "jest niedopuszczalna do czasu wydania decyzji o udzieleniu patentu a po tym czasie musi być zawarta z zachowaniem formy pisemnej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Twórca wzoru przemysłowego uprawniony do uzyskania prawa z rejestracji:",
+        "answers": [
+            "może przenieść to prawo na rzecz przedsiębiorcy nieodpłatnie pod warunkiem, że wiąże go z przedsiębiorcą umowa o opracowanie wzoru przemysłowego",
+            "może przenieść to prawo na rzecz przedsiębiorcy tylko odpłatnie",
+            "może to prawo przenieść nieodpłatnie na rzecz przedsiębiorcy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Oznaczenia pochodzenia:",
+        "answers": [
+            "służą do wyróżniania towarów pochodzących z określonego terenu oraz posiadających pewne szczególne właściwości albo inne cechy szczególne przypisywane pochodzeniu geograficznemu, czyli terenowi, gdzie zostały one wytworzone lub przetworzone",
+            "służą do wyróżniania towarów pochodzących z określonego terenu oraz posiadających szczególne właściwości, które wyłącznie lub w przeważającej mierze zawdzięczają oddziaływaniu środowiska geograficznego obejmującego łącznie czynniki naturalne oraz ludzkie których wytworzenie lub przetworzenie następuje na tym terenie",
+            "służą do wyróżniania towarów które są wytworzone z surowców lub półproduktów pochodzących z określonego terenu, większego niż teren wytworzenia lub przetworzenia towaru, jeżeli są one przygotowywane w szczególnych warunkach i istnieje system kontroli przestrzegania tych warunków"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Samorządy zawodowe tworzy się w Polsce:",
+        "answers": [
+            "w drodze ustawy",
+            "jest to autonomiczna decyzja przedstawicieli zawodów nie wymagająca zgody żadnego przedstawiciela władzy",
+            "w drodze rozporządzenia"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ograniczenie wolności działalności gospodarczej w RP:",
+        "answers": [
+            "jest w pełni dopuszczalne w drodze rozporządzenia odpowiedniego ministra ze względu na ważny interes publiczny",
+            "jest niedopuszczalne, gdyż w Polsce obowiązuje zasada swobody działalności gospodarczej",
+            "jest dopuszczalne tylko w drodze ustawy oraz ze względu na ważny interes publiczny"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP władzę wykonawczą sprawuje:",
+        "answers": [
+            "Sejm i Senat",
+            "Prezydent RP i Rada Ministrów",
+            "Rada Ministrów"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką:",
+        "answers": [
+            "Państwa",
+            "Konstytucji RP",
+            "Rzeczypospolitej Polskiej"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP, kto znajduje się pod władzą RP:",
+        "answers": [
+            "korzysta z praw zapewnionych w Konstytucji",
+            "korzysta z wolności i praw zapewnionych przez Rzeczpospolitą Polską",
+            "korzysta z wolności i praw zapewnionych w Konstytucji"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP każdy ma prawo do:",
+        "answers": [
+            "żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą",
+            "żądania sprostowania oraz usunięcia informacji nieprawdziwych",
+            "żądania sprostowania oraz usunięcia informacji nieprawdziwych zebranych w sposób sprzeczny z ustawą"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu:",
+        "answers": [
+            "za przestępstwa popełnione w związku z zajmowanym stanowiskiem",
+            "za naruszenie Konstytucji",
+            "za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje:",
+        "answers": [
+            "wnioskodawcy projektu, posłom i Radzie Ministrów",
+            "tylko posłom i Radzie Ministrów",
+            "tylko wnioskodawcy projektu i posłom"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą senatu na:",
+        "answers": [
+            "3 lata",
+            "5 lat",
+            "6 lat"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z Konstytucją RP Senat może uchwalić poprawki do ustawy budżetowej w ciągu:",
+        "answers": [
+            "10 dni od dnia przekazania jej Senatowi",
+            "20 dni od dnia przekazania jej Senatowi",
+            "30 dni od dnia przekazania jej Senatowi"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych aplikacja rzecznikowska odbywa się pod kierunkiem patrona wyznaczonego w drodze uchwały przez Krajową Radę Rzeczników Patentowych. Patronem może być:",
+        "answers": [
+            "tylko rzecznik patentowy",
+            "rzecznik patentowy, adwokat lub radca prawny zajmujący się od co najmniej 5 lat ochroną własności przemysłowej",
+            "rzecznik patentowy lub aplikant rzecznikowski, który zakończył 2 lata odbywania aplikacji rzecznikowskiej"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych kancelaria patentowa może być utworzona i prowadzona:",
+        "answers": [
+            "gdy co najmniej 1/3 wspólników w spółce cywilnej lub jawnej, partnerów w spółce partnerskiej lub komplementariuszy w spółce komandytowej lub komandytowo-akcyjnej stanowią rzecznicy patentowi.",
+            "gdy kwalifikowaną większość wspólników w spółce cywilnej lub jawnej, partnerów w spółce partnerskiej lub komplementariuszy w spółce komandytowej lub komandytowo-akcyjnej stanowią rzecznicy patentowi.",
+            "gdy co najmniej połowę wspólników w spółce cywilnej lub jawnej, partnerów w spółce partnerskiej lub komplementariuszy w spółce komandytowej lub komandytowo-akcyjnej stanowią rzecznicy patentowi."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych Krajowa Rada Rzeczników Patentowych ustanawia tymczasowego zarządcę kancelarii w przypadku:",
+        "answers": [
+            "w przypadku zdarzenia powodującego trwałą utratę możliwości świadczenia przez kancelarię patentową pomocy w sprawach własności przemysłowej:",
+            "w przypadku zdarzenia powodującego trwałą lub częściową utratę możliwości świadczenia przez kancelarię patentową pomocy w sprawach własności przemysłowej",
+            "żadne z powyższych"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych:",
+        "answers": [
+            "rzecznik patentowy nie może przyjąć zastępstwa lub udzielić pomocy, jeżeli zastępował stronę przeciwną lub udzielił jej pomocy w tej samej bądź związanej z nią sprawie;",
+            "rzecznik patentowy nie może przyjąć zastępstwa lub udzielić pomocy w sprawie, w której brał lub bierze udział z upoważnienia organów administracji rządowej lub samorządowej.",
+            "obie odpowiedzi są poprawne"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych podstawą wpisu kandydata na listę aplikantów jest:",
+        "answers": [
+            "uchwała Prezesa Polskiej Izby Rzeczników Patentowych",
+            "uchwała Krajowej Rady PIRP stwierdzająca pozytywny wynik egzaminu konkursowego",
+            "uchwała Komisji Egzaminacyjnej stwierdzająca pozytywny wynik egzaminu konkursowego"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych na uchwałę w sprawie zwolnienia od odbycia aplikacji rzecznikowskiej kandydatowi służy skarga",
+        "answers": [
+            "do sądu administracyjnego",
+            "do Komisji Egzaminacyjnej",
+            "do Krajowej Rady Rzeczników Patentowych"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych ślubowanie na rzecznika patentowego odbiera:",
+        "answers": [
+            "Prezes Krajowej Rady Rzeczników Patentowych",
+            "Prezes Urzędu Patentowego RP",
+            "Prezes Krajowej Rady Rzeczników Patentowych w obecności Prezesa Urzędu Patentowego RP"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych skreślenie z listy rzeczników patentowych następuje m.in. w przypadku:",
+        "answers": [
+            "nieuiszczania składek członkowskich za okres dłuższy niż rok w co najmniej połowie wysokości należnej składki;",
+            "nieuiszczania składek członkowskich za okres dłuższy niż 2 lata;",
+            "nieuiszczania składek członkowskich za okres dłuższy niż rok;"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych egzamin kwalifikacyjny na rzecznika patentowego polega na sporządzeniu przez zdającego:",
+        "answers": [
+            "dokumentacji zgłoszenia wynalazku do ochrony, pisma procesowego w postępowaniu administracyjnym, sądowoadministracyjnym lub cywilnym, opinii na podstawie przedstawionego stanu faktycznego lub rozstrzygnięcia problemu prawnego na podstawie opisanego przypadku oraz testu językowego",
+            "dokumentacji zgłoszenia wynalazku do ochrony lub pisma procesowego w postępowaniu administracyjnym, sądowoadministracyjnym lub cywilnym lub opinii na podstawie przedstawionego stanu faktycznego lub rozstrzygnięcia problemu prawnego na podstawie opisanego przypadku",
+            "dokumentacji zgłoszenia wynalazku do ochrony, pisma procesowego w postępowaniu administracyjnym, sądowoadministracyjnym lub cywilnym, opinii na podstawie przedstawionego stanu faktycznego lub rozstrzygnięcia problemu prawnego na podstawie opisanego przypadku"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych organami samorządu nie jest:",
+        "answers": [
+            "Prezes Polskiej Izby Rzeczników Patentowych;",
+            "Krajowy Zjazd Rzeczników Patentowych;",
+            "Dziekan Okręgu"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych wiceprezesi Polskiej Izby Rzeczników Patentowych:",
+        "answers": [
+            "działają w granicach upoważnienia udzielonego przez Krajową Radę Polskiej Izby Rzeczników Patentowych",
+            "działają w granicach upoważnienia udzielonego przez Prezesa Polskiej Izby Rzeczników Patentowych",
+            "działają w granicach upoważnienia udzielonego przez Prezesa Polskiej Izby Rzeczników Patentowych lub przez Krajową Radę Polskiej Izby Rzeczników Patentowych w sprawach dotyczących finansowania"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych w Nadzwyczajnym Krajowym Zjeździe Rzeczników Patentowych mogą brać udział aplikanci rzecznikowscy:",
+        "answers": [
+            "bez ograniczeń stażu i bez prawa głosowania",
+            "po odbyciu połowy aplikacji i bez prawa głosowania",
+            "po odbyciu połowy aplikacji z prawem głosowania na podstawie upoważnienia udzielonego przez właściwego dziekana okręgu"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą o rzecznikach patentowych od wymogu odbycia aplikacji rzecznikowskiej można zwolnić w całości lub części osobę, która:",
+        "answers": [
+            "w przeciągu dwóch lat od starania się o wpis na listę aplikantów zdobyła uprawnienia europejskiego rzecznika patentowego",
+            "wykaże, że posiada określoną wiedzę lub praktykę w sprawach własności przemysłowej, przydatną do wykonywania zawodu rzecznika patentowego",
+            "nie później niż rok od starania się o wpis na listę aplikantów zdobyła uprawnienia europejskiego rzecznika patentowego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w razie dokonania wynalazku w wyniku wykonywania przez twórcę obowiązków ze stosunku pracy albo z realizacji innej umowy, prawo do uzyskania patentu na wynalazek przysługuje:",
+        "answers": [
+            "pracodawcy lub zamawiającemu, chyba że strony ustaliły inaczej",
+            "tylko twórcy",
+            "tylko pracodawcy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej prawo do uzyskania prawa ochronnego na wzór użytkowy:",
+        "answers": [
+            "podlega dziedziczeniu",
+            "nie podlega dziedziczeniu",
+            "podlega dziedziczeniu tylko pierwszym zstępnym"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej pierwszeństwo do uzyskania prawa z rejestracji wzoru przemysłowego przysługuje w Rzeczypospolitej Polskiej według daty pierwszego prawidłowego zgłoszenia tego wzoru przemysłowego w innym wskazanym państwie, jeżeli od tej daty zgłoszenie w Urzędzie Patentowym dokonane zostanie w okresie:",
+        "answers": [
+            "6 miesięcy",
+            "12 miesięcy",
+            "36 miesięcy"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej sposoby leczenia ludzi i zwierząt metodami chirurgicznymi:",
+        "answers": [
+            "nie mogą uzyskać ochrony patentowej",
+            "mogą uzyskać ochronę patentową o ile są nowe i posiadają poziom wynalazczy",
+            "mogą uzyskać ochronę patentową o ile są nowe, posiadają poziom wynalazczy i nadają się do przemysłowego zastosowania"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej każde zastrzeżenie patentowe:",
+        "answers": [
+            "powinno być ujęte w jednym zdaniu lub równoważniku zdania i nie musi być poparte w całości opisem wynalazku",
+            "może być ujęte w kilku zdaniach i być w całości poparte opisem wynalazku",
+            "powinno być ujęte w jednym zdaniu lub równoważniku zdania i być w całości poparte opisem wynalazku"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej do czasu wydania przez Urząd Patentowy decyzji ostatecznej w sprawie udzielenia patentu zgłaszający:",
+        "answers": [
+            "może wprowadzać uzupełnienia i poprawki do zgłoszenia wynalazku, które rozszerzą to, co zostało ujawnione w dniu dokonania zgłoszenia jako przedmiot rozwiązania w opisie zgłoszeniowym wynalazku obejmującym opis wynalazku, zastrzeżenia patentowe i rysunki",
+            "może wprowadzać uzupełnienia i poprawki do zgłoszenia wynalazku, które nie mogą wykraczać poza to, co zostało ujawnione w dniu dokonania zgłoszenia jako przedmiot rozwiązania w opisie zgłoszeniowym wynalazku obejmującym opis wynalazku, zastrzeżenia patentowe i rysunki",
+            "nie może wprowadzać żadnych uzupełnień i poprawek do zgłoszenia wynalazku"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej o zgłoszeniu wynalazku Urząd Patentowy RP dokonuje ogłoszenia co do zasady niezwłocznie po upływie 18 miesięcy od daty pierwszeństwa do uzyskania patentu. Zgłaszający może złożyć wniosek o dokonanie ogłoszenia w terminie wcześniejszym:",
+        "answers": [
+            "w okresie dwunastu miesięcy od daty pierwszeństwa",
+            "w okresie sześciu miesięcy od daty pierwszeństwa",
+            "w okresie trzech miesięcy od daty pierwszeństwa"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej Urząd Patentowy sporządza sprawozdanie o stanie techniki obejmujące wykaz publikacji, które będą brane pod uwagę przy ocenie zgłoszonego wynalazku:",
+        "answers": [
+            "w terminie dziewięciu miesięcy od daty pierwszeństwa, dla każdego zgłoszenia wynalazku podlegającego ogłoszeniu",
+            "niezwłocznie",
+            "niezwłocznie na pisemny wniosek zgłaszającego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej przeniesienie patentu staje się skuteczne wobec osób trzecich:",
+        "answers": [
+            "z chwilą podpisania odpowiedniej umowy",
+            "z chwilą zawiadomienie osób trzecich przez Urząd Patentowy w formie postanowienia o wpisie do rejestru patentowego",
+            "z chwilą wpisu tego przeniesienia do rejestru patentowego"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej udzielenie dodatkowego prawa ochronnego:",
+        "answers": [
+            "stwierdza się przez wydanie dodatkowego świadectwa ochronnego i podlega wpisowi do rejestru dodatkowych praw ochronnych na wniosek zgłaszającego",
+            "stwierdza się przez wydanie dodatkowego świadectwa ochronnego i podlega z urzędu wpisowi do rejestru dodatkowych praw ochronnych",
+            "stwierdza się przez zmianę podstawowego dokumentu o udzieleniu patentu głównego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej prawa z rejestracji wzoru przemysłowego:",
+        "answers": [
+            "udziela się na 25 lat od daty udzielenia rejestracji w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+            "udziela się na 20 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy",
+            "udziela się na 25 lat od daty dokonania zgłoszenia w Urzędzie Patentowym, podzielone na pięcioletnie okresy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej stwierdzenie, że wykorzystywanie wzoru przemysłowego narusza prawa osobiste lub majątkowe osób trzecich może być podstawą do:",
+        "answers": [
+            "unieważnienia prawa z rejestracji wzoru przemysłowego",
+            "postępowania o wygaszenie prawa z rejestracji wzoru przemysłowego",
+            "postępowania o umorzeniu postępowania w sprawie zgłoszenia o udzielenie prawa z rejestracji wzoru przemysłowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej współuprawniony z patentu:",
+        "answers": [
+            "może, za zgodą pozostałych współuprawnionych, korzystać z wynalazku we własnym zakresie oraz dochodzić roszczeń z powodu naruszenia patentu",
+            "może za zgodą Urzędu Patentowego stwierdzonej prawomocną decyzją korzystać z wynalazku we własnym zakresie oraz dochodzić roszczeń z powodu naruszenia patentu",
+            "może, bez zgody pozostałych współuprawnionych, korzystać z wynalazku we własnym zakresie oraz dochodzić roszczeń z powodu naruszenia patentu"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej uprawniony z licencji może udzielić dalszej licencji (sublicencja):",
+        "answers": [
+            "tylko za zgodą uprawnionego z patentu",
+            "niezależnie od zgody uprawnionego z patentu",
+            "bez zgody uprawnionego z patentu o ile sublicencja nie narusza zasad współżycia społecznego i dobrych obyczajów"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej rodzaje wzorów użytkowych dotyczących obronności lub bezpieczeństwa Państwa oraz tryb postępowania z takimi wzorami zarówno przed stwierdzeniem przez właściwy organ, czy są to wzory użytkowe tajne, jak i po wydaniu postanowienia o ich tajności:",
+        "answers": [
+            "określa Prezes Urzędu Patentowego w drodze zarządzenia",
+            "określa Rada Ministrów w drodze rozporządzenia",
+            "określa Prezes Urzędu Patentowego po zasięgnięciu opinii Rady Ministrów w drodze zarządzenia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej wzoru przemysłowego nie uważa się za udostępniony publicznie, jeżeli:",
+        "answers": [
+            "nie mógł dotrzeć do wiadomości zwyczajnych odbiorców rynku",
+            "nie został wystawiony na krajowych lub międzynarodowych wystawach dotyczących wzornictwa przemysłowego",
+            "nie mógł dotrzeć do wiadomości osób zajmujących się zawodowo dziedziną, której wzór dotyczy"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej zgłoszenie wzoru przemysłowego w celu uzyskania prawa z rejestracji powinno obejmować:",
+        "answers": [
+            "podanie zawierające co najmniej oznaczenie zgłaszającego, określenie przedmiotu zgłoszenia, wniosek o udzielenie prawa z rejestracji oraz ilustrację wzoru przemysłowego",
+            "podanie zawierające co najmniej określenie przedmiotu zgłoszenia oraz ilustrację wzoru przemysłowego",
+            "wniosek o udzielenie prawa z rejestracji i ilustrację wzoru przemysłowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w podstawowej zasadzie:",
+        "answers": [
+            "nie może przekraczać pięciu",
+            "nie może przekraczać sześciu",
+            "nie może przekraczać dziesięciu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej nie udziela się prawa ochronnego na oznaczenie, które:",
+        "answers": [
+            "jest oznaczeniem holograficznym",
+            "jest oznaczeniem dźwiękowym",
+            "zawiera element o wysokiej wartości symbolicznej, w szczególności o charakterze religijnym, patriotycznym lub kulturowym, którego używanie obrażałoby uczucia religijne, patriotyczne lub tradycję narodową"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej, jeżeli dwie lub więcej osób korzystających z tej samej daty pierwszeństwa zgłosiło identyczne albo podobne znaki towarowe:",
+        "answers": [
+            "prawo ochronne na znak towarowy może być udzielone na rzecz każdej z tych osób",
+            "prawo ochronne na znak towarowy nie zostaje udzielone na rzecz żadnej z tych osób",
+            "o tym na czyją rzecz zostanie udzielone prawo ochronne decyduje Urząd Patentowy po przeprowadzeniu postępowania spornego w sprawie udzielenia daty pierwszeństwa"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej do zgłoszenia wspólnego znaku towarowego dołącza się:",
+        "answers": [
+            "regulamin używania znaku",
+            "zezwolenie twórcy na używanie znaku jako wspólnego znaku towarowego",
+            "umowę licencyjną o używaniu wspólnego znaku towarowego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej Urząd Patentowy RP może wprowadzić poprawki w dokumentacji zgłoszenia znaku towarowego bez zawiadamiania zgłaszającego:",
+        "answers": [
+            "jedynie w celu usunięcia oczywistych pomyłek i błędów językowych",
+            "w wykazie użytych kolorów, jeśli dla osiągnięcia zwiększenia zakresu żądanej ochrony będzie to korzystne dla zgłaszającego",
+            "w wykazie użytych kolorów i w wykazie towarów i ich klasyfikacji, jeśli dla osiągnięcia zwiększenia zakresu żądanej ochrony będzie to korzystne dla zgłaszającego"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w razie nieuiszczenia opłaty za dziesięcioletni okres ochrony na udzielone prawo ochronne na znak towarowy w wyznaczonym terminie Urząd Patentowy stwierdza:",
+        "answers": [
+            "umorzenie postępowania o zgłoszenie znaku towarowego",
+            "wygaśnięcie decyzji o udzieleniu prawa ochronnego",
+            "wygaśnięcie postępowania o zgłoszenie znaku towarowego"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej do rozpatrzenia sprzeciwu wobec zgłoszenia znaku towarowego Prezes Urzędu Patentowego wyznacza:",
+        "answers": [
+            "Przewodniczącego Kolegium do Spraw Spornych",
+            "trzyosobowy skład Kolegium do Spraw Spornych",
+            "eksperta"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w przypadku uznania za zasadny zarzutu nieużywania wcześniejszego znaku towarowego w sposób rzeczywisty w ciągu nieprzerwanego okresu 5 lat przed datą dokonania zgłoszenia znaku towarowego będącego przedmiotem sprzeciwu dla towarów objętych sprzeciwem co do zasady powoduje:",
+        "answers": [
+            "oddalenie sprzeciwu",
+            "umorzenie sprzeciwu",
+            "uznanie sprzeciwu"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej uprawniony z prawa ochronnego do znaku towarowego może wskazać, że jego znak został zarejestrowany, poprzez umieszczenie w sąsiedztwie znaku towarowego litery „R” wpisanej w okrąg:",
+        "answers": [
+            "od daty zgłoszenia znaku towarowego",
+            "od daty rejestracji znaku towarowego",
+            "od daty uprawomocnienia się decyzji Urzędu Patentowego o udzieleniu prawa ochronnego na znak towarowy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej przedłużenie prawa ochronnego na znak towarowy następuje:",
+        "answers": [
+            "po wniesieniu opłaty za kolejny okres ochrony w terminie",
+            "po złożeniu wniosku o przedłużenie ochrony",
+            "po złożeniu wniosku o przedłużenie ochrony, którego załącznikiem jest potwierdzenie wniesienia opłaty za przedłużenie ochrony w terminie"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej osoba, która, prowadząc lokalną działalność gospodarczą w niewielkim rozmiarze, używała w dobrej wierze oznaczenia zarejestrowanego następnie jako znak towarowy na rzecz innej osoby",
+        "answers": [
+            "ma prawo używać tego oznaczenia w nie większym niż dotychczas zakresie pod warunkiem podpisania licencji pośredniej z uprawnionym z zarejestrowanego znaku towarowego",
+            "nie może używać tego oznaczenia",
+            "ma prawo bezpłatnie używać tego oznaczenia w nie większym niż dotychczas zakresie"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej prawo ochronne na znak towarowy:",
+        "answers": [
+            "nie może być przeniesione na inną osobę w stosunku do niektórych towarów, dla których prawo to jest udzielone",
+            "może być przeniesione na inną osobę w stosunku do niektórych towarów, dla których prawo to jest udzielone",
+            "jest całkowicie i bezwarunkowo niezbywalne"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej udzielenie prawa z rejestracji na oznaczenie geograficzne, którego używanie naruszałoby prawo ochronne na znak towarowy:",
+        "answers": [
+            "może nastąpić, jeżeli uprawniony z prawa ochronnego zrzeknie się swojego prawa",
+            "powoduje wszczęcie postępowania spornego przed Urzędem Patentowym o naruszenie prawa ochronnego na znak towarowy",
+            "może nastąpić, jeśli oznaczenie geograficzne posiada większą zdolność odróżniającą niż znak towarowy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w sprawach, w których wpis do rejestru Urzędu Patentowego RP jest uzależniony od złożenia wniosku:",
+        "answers": [
+            "wpisu dokonuje się na podstawie prawidłowo złożonego wniosku",
+            "wpisu dokonuje się na podstawie decyzji",
+            "wpisu dokonuje się na podstawie postanowienia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej rzecznik patentowy występując jako pełnomocnik w postępowaniu spornym przed Urzędem Patentowym RP:",
+        "answers": [
+            "nie może sam uwierzytelnić odpisu udzielonego mu pełnomocnictwa",
+            "może sam uwierzytelnić odpis udzielonego mu pełnomocnictwa",
+            "jest zobowiązany przedstawić odpis pełnomocnictwa w oryginale"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej w toku postępowania w sprawach związanych z rozpatrywaniem zgłoszeń oraz utrzymaniem ochrony wynalazków, produktów leczniczych, produktów ochrony roślin, wzorów użytkowych, wzorów przemysłowych, znaków towarowych, oznaczeń geograficznych i topografii układów scalonych, a także w postępowaniu w sprawie dokonywania wpisów w rejestrach prowadzonych przez Urząd Patentowy - Urząd Patentowy o do zasady wyznacza stronie do dokonania określonych czynności terminy nie krótsze niż:",
+        "answers": [
+            "dwa tygodnie, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę za granicą.",
+            "10 dni, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę za granicą.",
+            "miesiąc, gdy strona ma miejsce zamieszkania lub siedzibę na obszarze Rzeczypospolitej Polskiej lub dwa miesiące, gdy strona ma miejsce zamieszkania lub siedzibę za granicą."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Zgodnie z ustawą prawo własności przemysłowej do postępowania spornego przed Urzędem Patentowym RP w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy:",
+        "answers": [
+            "kodeksu postępowania cywilnego",
+            "kodeksu postępowania administracyjnego",
+            "w zależności od przedmiotu sporu: kodeksu postępowania cywilnego ub kodeksu postępowania administracyjnego"
+        ],
+        "correct_answer": 0
+    }
+]
